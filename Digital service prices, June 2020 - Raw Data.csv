@@ -1,0 +1,1330 @@
+,Service,Country,Local Price,Currency,Plan/Title,Cost in USD (VALUES),GDP per Capita (PPP),Service Type
+,Xbox,Argentina,"1,169.35",ARS,Sekiro,$16.97,"$19,970.52",Gaming
+,Nintendo,Argentina,"3,640.00",ARS,Animal crossing,$52.83,"$19,970.52",Gaming
+,Nintendo,Argentina,"3,640.00",ARS,Zelda,$52.83,"$19,970.52",Gaming
+,Nintendo,Argentina,"3,640.00",ARS,Mario,$52.83,"$19,970.52",Gaming
+,Xbox,Argentina,749.50,ARS,Red Dead,$10.88,"$19,970.52",Gaming
+,Xbox,Argentina,899.50,ARS,Forza Horizon,$13.06,"$19,970.52",Gaming
+,Steam,Argentina,"2,149.00",ARS,Doom Eternal,$31.19,"$19,970.52",Gaming
+,Steam,Argentina,499.50,ARS,PUBG,$7.25,"$19,970.52",Gaming
+,Steam,Argentina,699.99,ARS,GTA V,$10.16,"$19,970.52",Gaming
+,Playstation,Argentina,19.99,USD,God Of War,$19.99,"$19,970.52",Gaming
+,Playstation,Argentina,19.99,USD,Bloodborne,$19.99,"$19,970.52",Gaming
+,Playstation,Argentina,39.99,USD,Spider-Man,$39.99,"$19,970.52",Gaming
+,Steam,Armenia,8.99,USD,PUBG,$8.99,"$11,844.65",Gaming
+,Steam,Armenia,24.99,USD,GTA V,$24.99,"$11,844.65",Gaming
+,Steam,Armenia,29.99,USD,Doom Eternal,$29.99,"$11,844.65",Gaming
+,Steam,Australia,21.47,AUD,PUBG,$15.00,"$54,799.04",Gaming
+,Steam,Australia,47.95,AUD,GTA V,$33.50,"$54,799.04",Gaming
+,Steam,Australia,99.95,AUD,Doom Eternal,$69.82,"$54,799.04",Gaming
+,Xbox,Australia,49.97,AUD,Red Dead,$34.91,"$54,799.04",Gaming
+,Xbox,Australia,49.97,AUD,Forza Horizon,$34.91,"$54,799.04",Gaming
+,Xbox,Australia,64.96,AUD,Sekiro,$45.38,"$54,799.04",Gaming
+,Nintendo,Australia,79.95,AUD,Animal crossing,$55.85,"$54,799.04",Gaming
+,Nintendo,Australia,79.95,AUD,Mario,$55.85,"$54,799.04",Gaming
+,Nintendo,Australia,89.95,AUD,Zelda,$62.84,"$54,799.04",Gaming
+,Playstation,Australia,24.95,USD,God Of War,$24.95,"$54,799.04",Gaming
+,Playstation,Australia,24.95,USD,Bloodborne,$24.95,"$54,799.04",Gaming
+,Playstation,Australia,69.95,USD,Spider-Man,$69.95,"$54,799.04",Gaming
+,Steam,Austria,14.99,EUR,PUBG,$16.99,"$55,171.99",Gaming
+,Steam,Austria,29.99,EUR,GTA V,$33.98,"$55,171.99",Gaming
+,Steam,Austria,59.99,EUR,Doom Eternal,$67.97,"$55,171.99",Gaming
+,Playstation,Austria,19.99,EUR,God Of War,$22.65,"$55,171.99",Gaming
+,Playstation,Austria,19.99,EUR,Bloodborne,$22.65,"$55,171.99",Gaming
+,Xbox,Austria,34.99,EUR,Red Dead,$39.65,"$55,171.99",Gaming
+,Xbox,Austria,34.99,EUR,Forza Horizon,$39.65,"$55,171.99",Gaming
+,Xbox,Austria,45.49,EUR,Sekiro,$51.54,"$55,171.99",Gaming
+,Playstation,Austria,49.99,EUR,Spider-Man,$56.64,"$55,171.99",Gaming
+,YouTube Premium,Israel,23.90,ILS,Monthly,$6.91,"$40,336.84",Video Streaming
+,Nintendo,Austria,59.99,EUR,Animal crossing,$67.97,"$55,171.99",Gaming
+,Nintendo,Austria,59.99,EUR,Mario,$67.97,"$55,171.99",Gaming
+,Nintendo,Austria,69.99,EUR,Zelda,$79.31,"$55,171.99",Gaming
+,Steam,Azerbaijan,8.99,USD,PUBG,$8.99,"$19,155.92",Gaming
+,Steam,Azerbaijan,24.99,USD,GTA V,$24.99,"$19,155.92",Gaming
+,Steam,Azerbaijan,29.99,USD,Doom Eternal,$29.99,"$19,155.92",Gaming
+,Steam,Belarus,8.99,USD,PUBG,$8.99,"$21,223.74",Gaming
+,Steam,Belarus,24.99,USD,GTA V,$24.99,"$21,223.74",Gaming
+,Steam,Belarus,29.99,USD,Doom Eternal,$29.99,"$21,223.74",Gaming
+,Steam,Belgium,14.99,EUR,PUBG,$16.99,"$50,904.69",Gaming
+,Steam,Belgium,29.99,EUR,GTA V,$33.98,"$50,904.69",Gaming
+,Steam,Belgium,59.99,EUR,Doom Eternal,$67.97,"$50,904.69",Gaming
+,Playstation,Belgium,19.99,EUR,God Of War,$22.65,"$50,904.69",Gaming
+,Playstation,Belgium,19.99,EUR,Bloodborne,$22.65,"$50,904.69",Gaming
+,Xbox,Belgium,34.99,EUR,Red Dead,$39.65,"$50,904.69",Gaming
+,Xbox,Belgium,34.99,EUR,Forza Horizon,$39.65,"$50,904.69",Gaming
+,Xbox,Belgium,45.49,EUR,Sekiro,$51.54,"$50,904.69",Gaming
+,Playstation,Belgium,49.99,EUR,Spider-Man,$56.64,"$50,904.69",Gaming
+,Nintendo,Belgium,59.99,EUR,Animal crossing,$67.97,"$50,904.69",Gaming
+,Nintendo,Belgium,59.99,EUR,Mario,$67.97,"$50,904.69",Gaming
+,Nintendo,Belgium,69.99,EUR,Zelda,$79.31,"$50,904.69",Gaming
+,Xbox,Brazil,124.50,BRL,Red Dead,$24.38,"$17,016.32",Gaming
+,Xbox,Brazil,129.35,BRL,Sekiro,$25.33,"$17,016.32",Gaming
+,Playstation,Brazil,169.99,BRL,Spider-Man,$33.29,"$17,016.32",Gaming
+,Nintendo,Brazil,250.79,BRL,Animal crossing,$49.12,"$17,016.32",Gaming
+,Nintendo,Brazil,250.79,BRL,Zelda,$49.12,"$17,016.32",Gaming
+,Nintendo,Brazil,250.79,BRL,Mario,$49.12,"$17,016.32",Gaming
+,Twitch Prime,United Arab Emirates,16.00,AED,Monthly,$4.37,"$70,441.55",Video Streaming
+,Apple music,Denmark,99.00,DKK,Individual,$15.01,"$55,674.67",Music Streaming
+,Netflix,Switzerland,21.90,CHF,Premium,$22.85,"$67,557.70",Video Streaming
+,Apple music,United Arab Emirates,29.99,AED,Family,$8.19,"$70,441.55",Music Streaming
+,Netflix,Denmark,129.00,DKK,Premium,$19.56,"$55,674.67",Video Streaming
+,Netflix,Finland,15.99,EUR,Premium,$18.12,"$49,547.88",Video Streaming
+,Playstation,Brazil,79.90,BRL,God Of War,$15.65,"$17,016.32",Gaming
+,YouTube Premium,Argentina,119.00,ARS,Monthly,$1.73,"$19,970.52",Video Streaming
+,Spotify,Denmark,99.00,DKK,Individual,$15.01,"$55,674.67",Music Streaming
+,Amazon Prime,United States,12.99,USD,Monthly,$12.99,"$67,426.84",Video Streaming
+,Playstation,Brazil,79.90,BRL,Bloodborne,$15.65,"$17,016.32",Gaming
+,Xbox,Brazil,97.47,BRL,Forza Horizon,$19.09,"$17,016.32",Gaming
+,Steam,Brazil,199.00,BRL,Doom Eternal,$38.97,"$17,016.32",Gaming
+,Steam,Brazil,69.99,BRL,GTA V,$13.71,"$17,016.32",Gaming
+,Steam,Brazil,37.50,BRL,PUBG,$7.34,"$17,016.32",Gaming
+,Steam,Brunei,14.99,USD,PUBG,$14.99,"$85,011.22",Gaming
+,Steam,Brunei,19.99,USD,GTA V,$19.99,"$85,011.22",Gaming
+,Steam,Brunei,59.99,USD,Doom Eternal,$59.99,"$85,011.22",Gaming
+,Spotify,Switzerland,12.95,CHF,Individual,$13.51,"$67,557.70",Music Streaming
+,Apple music,Switzerland,12.90,CHF,Individual,$13.46,"$67,557.70",Music Streaming
+,Netflix,Spain,15.99,EUR,Premium,$18.12,"$43,007.50",Video Streaming
+,Netflix,Italy,15.99,EUR,Premium,$18.12,"$41,582.19",Video Streaming
+,Netflix,Austria,15.99,EUR,Premium,$18.12,"$55,171.99",Video Streaming
+,YouTube Premium,Australia,14.99,AUD,Monthly,$10.47,"$54,799.04",Video Streaming
+,Netflix,France,15.99,EUR,Premium,$18.12,"$48,640.05",Video Streaming
+,Apple music,Australia,17.99,AUD,Family,$12.57,"$54,799.04",Music Streaming
+,Playstation,Bulgaria,39.90,BGN,God Of War,$23.11,"$26,034.33",Gaming
+,Playstation,Bulgaria,39.90,BGN,Bloodborne,$23.11,"$26,034.33",Gaming
+,Spotify,Liechtenstein*,12.95,CHF,Individual,$13.51,"$139,100.00",Music Streaming
+,Amazon Prime,Austria,7.99,EUR,Monthly,$9.05,"$55,171.99",Video Streaming
+,Twitch Prime,Australia,6.99,AUD,Monthly,$4.88,"$54,799.04",Video Streaming
+,Playstation,Bulgaria,99.90,BGN,Spider-Man,$57.86,"$26,034.33",Gaming
+,Nintendo,Bulgaria,59.99,EUR,Animal crossing,$67.97,"$26,034.33",Gaming
+,Nintendo,Bulgaria,59.99,EUR,Mario,$67.97,"$26,034.33",Gaming
+,Nintendo,Bulgaria,69.99,EUR,Zelda,$79.31,"$26,034.33",Gaming
+,Netflix,Germany,15.99,EUR,Premium,$18.12,"$55,306.21",Video Streaming
+,Steam,Cambodia,14.99,USD,PUBG,$14.99,"$5,004.10",Gaming
+,Steam,Cambodia,19.99,USD,GTA V,$19.99,"$5,004.10",Gaming
+,Steam,Cambodia,59.99,USD,Doom Eternal,$59.99,"$5,004.10",Gaming
+,Apple music,Bulgaria,13.99,BGN,Family,$8.10,"$26,034.33",Music Streaming
+,Apple music,United Kingdom,9.99,GBP,Individual,$12.64,"$48,168.87",Music Streaming
+,YouTube Premium,Bulgaria,10.99,BGN,Monthly,$6.37,"$26,034.33",Video Streaming
+,Xbox,Canada,39.99,CAD,Red Dead,$29.74,"$52,144.45",Gaming
+,Xbox,Canada,39.99,CAD,Forza Horizon,$29.74,"$52,144.45",Gaming
+,Amazon Prime,Germany,7.99,EUR,Monthly,$9.05,"$55,306.21",Video Streaming
+,Apple music,Austria,9.99,EUR,Individual,$11.32,"$55,171.99",Music Streaming
+,Xbox,Canada,51.99,CAD,Sekiro,$38.66,"$52,144.45",Gaming
+,YouTube Premium,Brazil,20.90,BRL,Monthly,$4.09,"$17,016.32",Video Streaming
+,Netflix,Iceland,15.99,EUR,Premium,$18.12,"$56,973.68",Video Streaming
+,Apple music,Brazil,24.90,BRL,Family,$4.88,"$17,016.32",Music Streaming
+,Nintendo,Canada,79.99,CAD,Animal crossing,$59.48,"$52,144.45",Gaming
+,Nintendo,Canada,79.99,CAD,Zelda,$59.48,"$52,144.45",Gaming
+,Nintendo,Canada,79.99,CAD,Mario,$59.48,"$52,144.45",Gaming
+,Netflix,Malta,15.99,EUR,Premium,$18.12,"$49,589.46",Video Streaming
+,Netflix,Slovakia,15.99,EUR,Premium,$18.12,"$38,321.54",Video Streaming
+,Steam,Canada,18.49,CAD,PUBG,$13.75,"$52,144.45",Gaming
+,Steam,Canada,29.99,CAD,GTA V,$22.30,"$52,144.45",Gaming
+,Steam,Canada,79.99,CAD,Doom Eternal,$59.48,"$52,144.45",Gaming
+,YouTube Premium,Canada,11.99,CAD,Monthly,$8.92,"$52,144.45",Video Streaming
+,Netflix,Ireland,15.99,EUR,Premium,$18.12,"$86,988.20",Video Streaming
+,Apple music,Canada,14.99,CAD,Family,$11.15,"$52,144.45",Music Streaming
+,Netflix,Switzerland,16.90,CHF,Standard,$17.63,"$67,557.70",Video Streaming
+,Playstation,Canada,19.99,USD,God Of War,$19.99,"$52,144.45",Gaming
+,Playstation,Canada,19.99,USD,Bloodborne,$19.99,"$52,144.45",Gaming
+,Playstation,Canada,49.99,USD,Spider-Man,$49.99,"$52,144.45",Gaming
+,Twitch Prime,Canada,7.99,CAD,Monthly,$5.94,"$52,144.45",Video Streaming
+,Xbox,Chile,"19,950.00",CLP,Red Dead,$25.75,"$27,150.38",Gaming
+,Xbox,Chile,"24,999.00",CLP,Forza Horizon,$32.27,"$27,150.38",Gaming
+,Xbox,Chile,"29,185.00",CLP,Sekiro,$37.68,"$27,150.38",Gaming
+,Netflix,Israel,60.90,NIS,Premium,$17.59,"$40,336.84",Video Streaming
+,Apple music,Ireland,9.99,EUR,Individual,$11.32,"$86,988.20",Music Streaming
+,Amazon Prime,Switzerland,7.99,EUR,Monthly,$9.05,"$67,557.70",Video Streaming
+,Nintendo,Chile,"46,020.00",CLP,Animal crossing,$59.41,"$27,150.38",Gaming
+,Nintendo,Chile,"46,020.00",CLP,Zelda,$59.41,"$27,150.38",Gaming
+,Nintendo,Chile,"46,020.00",CLP,Mario,$59.41,"$27,150.38",Gaming
+,Netflix,Japan,"1,800.00",JPY,Premium,$16.47,"$46,827.35",Video Streaming
+,Apple music,Belgium,9.99,EUR,Individual,$11.32,"$50,904.69",Music Streaming
+,Spotify,United Kingdom,9.99,GBP,Individual,$12.64,"$48,168.87",Music Streaming
+,Spotify,Norway,109.00,NOK,Individual,$11.72,"$79,638.07",Music Streaming
+,Spotify,Austria,9.99,EUR,Individual,$11.32,"$55,171.99",Music Streaming
+,YouTube Premium,Switzerland,15.90,CHF,Monthly,$16.59,"$67,557.70",Video Streaming
+,Steam,Chile,"29,990.00",CLP,GTA V,$38.71,"$27,150.38",Gaming
+,Netflix,Costa Rica,15.99,USD,Premium,$15.99,"$18,650.95",Video Streaming
+,Apple music,Switzerland,19.90,CHF,Family,$20.76,"$67,557.70",Music Streaming
+,Netflix,Uruguay,15.99,USD,Premium,$15.99,"$24,515.57",Video Streaming
+,Steam,Chile,"45,450.00",CLP,Doom Eternal,$58.67,"$27,150.38",Gaming
+,Steam,Chile,"5,200.00",CLP,PUBG,$6.71,"$27,150.38",Gaming
+,Playstation,Chile,19.99,USD,God Of War,$19.99,"$27,150.38",Gaming
+,Playstation,Chile,19.99,USD,Bloodborne,$19.99,"$27,150.38",Gaming
+,Playstation,Chile,39.99,USD,Spider-Man,$39.99,"$27,150.38",Gaming
+,Steam,China,119.00,CNY,GTA V,$16.78,"$20,984.28",Gaming
+,Steam,China,199.00,CNY,Doom Eternal,$28.07,"$20,984.28",Gaming
+,Steam,China,49.00,CNY,PUBG,$6.91,"$20,984.28",Gaming
+,Steam,Colombia,"24,500.00",COP,PUBG,$6.81,"$16,264.97",Gaming
+,Steam,Colombia,"250,000.00",COP,Doom Eternal,$69.46,"$16,264.97",Gaming
+,Steam,Colombia,"99,900.00",COP,GTA V,$27.75,"$16,264.97",Gaming
+,Xbox,Colombia,"109,950.00",COP,Red Dead,$30.55,"$16,264.97",Gaming
+,Xbox,Colombia,"114,950.00",COP,Forza Horizon,$31.94,"$16,264.97",Gaming
+,Xbox,Colombia,"142,935.00",COP,Sekiro,$39.71,"$16,264.97",Gaming
+,Amazon Prime,Ireland,5.99,GBP,Monthly,$7.58,"$86,988.20",Video Streaming
+,Nintendo,Colombia,"245,500.00",COP,Animal crossing,$68.21,"$16,264.97",Gaming
+,Nintendo,Colombia,"245,500.00",COP,Zelda,$68.21,"$16,264.97",Gaming
+,Nintendo,Colombia,"245,500.00",COP,Mario,$68.21,"$16,264.97",Gaming
+,YouTube Premium,Chile,"4,100.00",CLP,Monthly,$5.29,"$27,150.38",Video Streaming
+,Playstation,Colombia,19.99,USD,God Of War,$19.99,"$16,264.97",Gaming
+,Playstation,Colombia,19.99,USD,Bloodborne,$19.99,"$16,264.97",Gaming
+,Playstation,Colombia,39.99,USD,Spider-Man,$39.99,"$16,264.97",Gaming
+,Apple music,Italy,9.99,EUR,Individual,$11.32,"$41,582.19",Music Streaming
+,Apple music,China,15.00,CNY,Family,$2.12,"$20,984.28",Music Streaming
+,Steam,Costa Rica,"35,000.00",CRC,Doom Eternal,$60.83,"$18,650.95",Gaming
+,Steam,Costa Rica,"4,500.00",CRC,PUBG,$7.82,"$18,650.95",Gaming
+,Steam,Costa Rica,"9,990.00",CRC,GTA V,$17.36,"$18,650.95",Gaming
+,Nintendo,Croatia,59.99,EUR,Animal crossing,$67.97,"$29,207.13",Gaming
+,Nintendo,Croatia,59.99,EUR,Mario,$67.97,"$29,207.13",Gaming
+,Apple music,Spain,9.99,EUR,Individual,$11.32,"$43,007.50",Music Streaming
+,Nintendo,Croatia,69.99,EUR,Zelda,$79.31,"$29,207.13",Gaming
+,Spotify,Netherlands,9.99,EUR,Individual,$11.32,"$60,299.14",Music Streaming
+,Spotify,Monaco*,9.99,EUR,Individual,$11.32,"$115,700.00",Music Streaming
+,Netflix,United States,15.99,USD,Premium,$15.99,"$67,426.84",Video Streaming
+,YouTube Premium,Colombia,"17,900.00",COP,Monthly,$4.97,"$16,264.97",Video Streaming
+,Apple music,Colombia,"19,900.00",COP,Family,$5.53,"$16,264.97",Music Streaming
+,Netflix,Portugal,13.99,EUR,Premium,$15.85,"$34,935.82",Video Streaming
+,Steam,Cyprus,14.99,EUR,PUBG,$16.99,"$42,956.46",Gaming
+,Steam,Cyprus,29.99,EUR,GTA V,$33.98,"$42,956.46",Gaming
+,Steam,Cyprus,59.99,EUR,Doom Eternal,$67.97,"$42,956.46",Gaming
+,Netflix,Bolivia,13.99,EUR,Premium,$15.85,"$8,524.76",Video Streaming
+,Apple music,Luxembourg,9.99,EUR,Individual,$11.32,"$112,044.59",Music Streaming
+,Spotify,Luxembourg,9.99,EUR,Individual,$11.32,"$112,044.59",Music Streaming
+,Netflix,Netherlands,13.99,EUR,Premium,$15.85,"$60,299.14",Video Streaming
+,Apple music,Chile,"4,900.00",CPL,Family,$6.39,"$27,150.38",Music Streaming
+,Netflix,Guatemala,13.99,EUR,Premium,$15.85,"$9,009.03",Video Streaming
+,Netflix,Belgium,13.99,EUR,Premium,$15.85,"$50,904.69",Video Streaming
+,YouTube Premium,Costa Rica,"3,790.00",CRC,Monthly,$6.59,"$18,650.95",Video Streaming
+,Playstation,Cyprus,19.99,EUR,God Of War,$22.65,"$42,956.46",Gaming
+,Playstation,Cyprus,19.99,EUR,Bloodborne,$22.65,"$42,956.46",Gaming
+,Playstation,Cyprus,49.99,EUR,Spider-Man,$56.64,"$42,956.46",Gaming
+,Nintendo,Cyprus,59.99,EUR,Animal crossing,$67.97,"$42,956.46",Gaming
+,Nintendo,Cyprus,59.99,EUR,Mario,$67.97,"$42,956.46",Gaming
+,Nintendo,Cyprus,69.99,EUR,Zelda,$79.31,"$42,956.46",Gaming
+,Xbox,Czech Republic,"1,169.35",CZK,Sekiro,$49.84,"$40,584.79",Gaming
+,Playstation,Czech Republic,"1,279.00",CZK,Spider-Man,$54.51,"$40,584.79",Gaming
+,Nintendo,Czech Republic,"1,499.00",CZK,Animal crossing,$63.89,"$40,584.79",Gaming
+,Apple music,Finland,9.99,EUR,Individual,$11.32,"$49,547.88",Music Streaming
+,YouTube Premium,Czech Republic,179.00,CZK,Monthly,$7.63,"$40,584.79",Video Streaming
+,Apple music,Czech Republic,229.00,CZK,Family,$9.76,"$40,584.79",Music Streaming
+,Nintendo,Czech Republic,"1,499.00",CZK,Mario,$63.89,"$40,584.79",Gaming
+,Nintendo,Czech Republic,"1,749.00",CZK,Zelda,$74.54,"$40,584.79",Gaming
+,Playstation,Czech Republic,499.00,CZK,God Of War,$21.27,"$40,584.79",Gaming
+,Playstation,Czech Republic,499.00,CZK,Bloodborne,$21.27,"$40,584.79",Gaming
+,Xbox,Czech Republic,894.50,CZK,Forza Horizon,$38.12,"$40,584.79",Gaming
+,Xbox,Czech Republic,899.50,CZK,Red Dead,$38.34,"$40,584.79",Gaming
+,Playstation,Denmark,159.00,DKK,God Of War,$24.11,"$55,674.67",Gaming
+,Playstation,Denmark,159.00,DKK,Bloodborne,$24.11,"$55,674.67",Gaming
+,Xbox,Denmark,274.50,DKK,Forza Horizon,$41.63,"$55,674.67",Gaming
+,Netflix,Greece,13.99,EUR,Premium,$15.85,"$31,616.27",Video Streaming
+,Apple music,Denmark,149.00,DKK,Family,$22.60,"$55,674.67",Music Streaming
+,Netflix,Luxembourg,13.99,EUR,Premium,$15.85,"$112,044.59",Video Streaming
+,Netflix,United Arab Emirates,56.00,AED,Premium,$15.29,"$70,441.55",Video Streaming
+,Spotify,Italy,9.99,EUR,Individual,$11.32,"$41,582.19",Music Streaming
+,Apple music,France,9.99,EUR,Individual,$11.32,"$48,640.05",Music Streaming
+,YouTube Premium,Denmark,119.00,DKK,Monthly,$18.05,"$55,674.67",Video Streaming
+,Apple music,Netherlands,9.99,EUR,Individual,$11.32,"$60,299.14",Music Streaming
+,Apple music,Egypt,74.99,EGP,Family,$4.62,"$14,800.34",Music Streaming
+,Xbox,Denmark,275.00,DKK,Red Dead,$41.71,"$55,674.67",Gaming
+,Xbox,Denmark,338.00,DKK,Sekiro,$51.26,"$55,674.67",Gaming
+,Playstation,Denmark,399.00,DKK,Spider-Man,$60.51,"$55,674.67",Gaming
+,Nintendo,Denmark,449.00,DKK,Animal crossing,$68.10,"$55,674.67",Gaming
+,Nintendo,Denmark,449.00,DKK,Mario,$68.10,"$55,674.67",Gaming
+,Nintendo,Denmark,519.00,DKK,Zelda,$78.71,"$55,674.67",Gaming
+,Steam,Denmark,14.99,EUR,PUBG,$16.99,"$55,674.67",Gaming
+,Steam,Denmark,29.99,EUR,GTA V,$33.98,"$55,674.67",Gaming
+,Steam,Denmark,59.99,EUR,Doom Eternal,$67.97,"$55,674.67",Gaming
+,Steam,Estonia,14.99,EUR,PUBG,$16.99,"$37,605.62",Gaming
+,Steam,Estonia,29.99,EUR,GTA V,$33.98,"$37,605.62",Gaming
+,Steam,Estonia,59.99,EUR,Doom Eternal,$67.97,"$37,605.62",Gaming
+,Nintendo,Estonia,59.99,EUR,Animal crossing,$67.97,"$37,605.62",Gaming
+,Nintendo,Estonia,59.99,EUR,Mario,$67.97,"$37,605.62",Gaming
+,Nintendo,Estonia,69.99,EUR,Zelda,$79.31,"$37,605.62",Gaming
+,Steam,Finland,14.99,EUR,PUBG,$16.99,"$49,547.88",Gaming
+,Steam,Finland,29.99,EUR,GTA V,$33.98,"$49,547.88",Gaming
+,Steam,Finland,59.99,EUR,Doom Eternal,$67.97,"$49,547.88",Gaming
+,Playstation,Finland,19.95,EUR,God Of War,$22.61,"$49,547.88",Gaming
+,Playstation,Finland,19.95,EUR,Bloodborne,$22.61,"$49,547.88",Gaming
+,Xbox,Finland,34.99,EUR,Red Dead,$39.65,"$49,547.88",Gaming
+,Xbox,Finland,34.99,EUR,Forza Horizon,$39.65,"$49,547.88",Gaming
+,Xbox,Finland,45.49,EUR,Sekiro,$51.54,"$49,547.88",Gaming
+,Playstation,Finland,49.95,EUR,Spider-Man,$56.60,"$49,547.88",Gaming
+,Nintendo,Finland,59.99,EUR,Animal crossing,$67.97,"$49,547.88",Gaming
+,Nintendo,Finland,59.99,EUR,Mario,$67.97,"$49,547.88",Gaming
+,Nintendo,Finland,69.99,EUR,Zelda,$79.31,"$49,547.88",Gaming
+,Steam,France,14.99,EUR,PUBG,$16.99,"$48,640.05",Gaming
+,Steam,France,29.99,EUR,GTA V,$33.98,"$48,640.05",Gaming
+,Steam,France,59.99,EUR,Doom Eternal,$67.97,"$48,640.05",Gaming
+,Playstation,France,19.99,EUR,God Of War,$22.65,"$48,640.05",Gaming
+,Playstation,France,19.99,EUR,Bloodborne,$22.65,"$48,640.05",Gaming
+,Xbox,France,34.99,EUR,Red Dead,$39.65,"$48,640.05",Gaming
+,Xbox,France,34.99,EUR,Forza Horizon,$39.65,"$48,640.05",Gaming
+,Xbox,France,45.49,EUR,Sekiro,$51.54,"$48,640.05",Gaming
+,Playstation,France,49.99,EUR,Spider-Man,$56.64,"$48,640.05",Gaming
+,Nintendo,France,59.99,EUR,Animal crossing,$67.97,"$48,640.05",Gaming
+,Nintendo,France,59.99,EUR,Mario,$67.97,"$48,640.05",Gaming
+,Nintendo,France,69.99,EUR,Zelda,$79.31,"$48,640.05",Gaming
+,Steam,Georgia,8.99,USD,PUBG,$8.99,"$13,199.65",Gaming
+,Steam,Georgia,24.99,USD,GTA V,$24.99,"$13,199.65",Gaming
+,Steam,Georgia,29.99,USD,Doom Eternal,$29.99,"$13,199.65",Gaming
+,Steam,Germany,14.99,EUR,PUBG,$16.99,"$55,306.21",Gaming
+,Steam,Germany,29.99,EUR,GTA V,$33.98,"$55,306.21",Gaming
+,Steam,Germany,59.99,EUR,Doom Eternal,$67.97,"$55,306.21",Gaming
+,Playstation,Germany,19.99,EUR,God Of War,$22.65,"$55,306.21",Gaming
+,Playstation,Germany,19.99,EUR,Bloodborne,$22.65,"$55,306.21",Gaming
+,Xbox,Germany,34.99,EUR,Red Dead,$39.65,"$55,306.21",Gaming
+,Xbox,Germany,34.99,EUR,Forza Horizon,$39.65,"$55,306.21",Gaming
+,Xbox,Germany,45.49,EUR,Sekiro,$51.54,"$55,306.21",Gaming
+,Playstation,Germany,49.99,EUR,Spider-Man,$56.64,"$55,306.21",Gaming
+,Nintendo,Germany,59.99,EUR,Animal crossing,$67.97,"$55,306.21",Gaming
+,Nintendo,Germany,59.99,EUR,Mario,$67.97,"$55,306.21",Gaming
+,Nintendo,Germany,69.99,EUR,Zelda,$79.31,"$55,306.21",Gaming
+,Steam,Greece,14.99,EUR,PUBG,$16.99,"$31,616.27",Gaming
+,Steam,Greece,29.99,EUR,GTA V,$33.98,"$31,616.27",Gaming
+,Steam,Greece,59.99,EUR,Doom Eternal,$67.97,"$31,616.27",Gaming
+,Playstation,Greece,19.99,EUR,God Of War,$22.65,"$31,616.27",Gaming
+,Playstation,Greece,19.99,EUR,Bloodborne,$22.65,"$31,616.27",Gaming
+,Xbox,Greece,34.99,EUR,Red Dead,$39.65,"$31,616.27",Gaming
+,Netflix,United Kingdom,11.99,GBP,Premium,$15.17,"$48,168.87",Video Streaming
+,Netflix,Sweden,139.00,SEK,Premium,$15.13,"$55,988.99",Video Streaming
+,Netflix,Denmark,99.00,DKK,Standard,$15.01,"$55,674.67",Video Streaming
+,Netflix,Qatar,14.99,USD,Premium,$14.99,"$138,909.78",Video Streaming
+,Netflix,Kuwait,14.99,USD,Premium,$14.99,"$67,890.98",Video Streaming
+,Netflix,Bahrain,14.99,USD,Premium,$14.99,"$51,991.13",Video Streaming
+,Netflix,Norway,139.00,NOK,Premium,$14.94,"$79,638.07",Video Streaming
+,Apple music,Portugal,10.99,EUR,Family,$12.45,"$34,935.82",Music Streaming
+,Apple music,Latvia,10.99,EUR,Family,$12.45,"$32,986.51",Music Streaming
+,Apple music,Lithuania,10.99,EUR,Family,$12.45,"$38,751.02",Music Streaming
+,Apple music,Estonia,10.99,EUR,Family,$12.45,"$37,605.62",Music Streaming
+,Apple music,Malta,10.99,EUR,Family,$12.45,"$49,589.46",Music Streaming
+,Apple music,Greece,10.99,EUR,Family,$12.45,"$31,616.27",Music Streaming
+,Netflix,Saudi Arabia,56.00,SAR,Premium,$14.92,"$56,912.37",Video Streaming
+,Netflix,New Zealand,21.99,NZD,Premium,$14.29,"$42,044.57",Video Streaming
+,Netflix,Venezuela,13.99,USD,Premium,$13.99,"$5,699.00",Video Streaming
+,Netflix,Czech Republic,319.00,CZK,Premium,$13.60,"$40,584.79",Video Streaming
+,Netflix,Finland,11.99,EUR,Standard,$13.59,"$49,547.88",Video Streaming
+,Netflix,Spain,11.99,EUR,Standard,$13.59,"$43,007.50",Video Streaming
+,Netflix,Italy,11.99,EUR,Standard,$13.59,"$41,582.19",Video Streaming
+,Netflix,Austria,11.99,EUR,Standard,$13.59,"$55,171.99",Video Streaming
+,Netflix,France,11.99,EUR,Standard,$13.59,"$48,640.05",Video Streaming
+,Netflix,Germany,11.99,EUR,Standard,$13.59,"$55,306.21",Video Streaming
+,Netflix,Iceland,11.99,EUR,Standard,$13.59,"$56,973.68",Video Streaming
+,Netflix,Malta,11.99,EUR,Standard,$13.59,"$49,589.46",Video Streaming
+,Netflix,Slovakia,11.99,EUR,Standard,$13.59,"$38,321.54",Video Streaming
+,Netflix,Ireland,11.99,EUR,Standard,$13.59,"$86,988.20",Video Streaming
+,Netflix,Slovenia,11.99,EUR,Premium,$13.59,"$40,343.95",Video Streaming
+,Netflix,Estonia,11.99,EUR,Premium,$13.59,"$37,605.62",Video Streaming
+,Netflix,Latvia,11.99,EUR,Premium,$13.59,"$32,986.51",Video Streaming
+,Netflix,Ukraine,11.99,EUR,Premium,$13.59,"$10,310.06",Video Streaming
+,YouTube Premium,Austria,11.99,EUR,Monthly,$13.59,"$55,171.99",Video Streaming
+,YouTube Premium,Belgium,11.99,EUR,Monthly,$13.59,"$50,904.69",Video Streaming
+,YouTube Premium,Finland,11.99,EUR,Monthly,$13.59,"$49,547.88",Video Streaming
+,YouTube Premium,France,11.99,EUR,Monthly,$13.59,"$48,640.05",Video Streaming
+,YouTube Premium,Germany,11.99,EUR,Monthly,$13.59,"$55,306.21",Video Streaming
+,YouTube Premium,Iceland,11.99,EUR,Monthly,$13.59,"$56,973.68",Video Streaming
+,YouTube Premium,Ireland,11.99,EUR,Monthly,$13.59,"$86,988.20",Video Streaming
+,YouTube Premium,Italy,11.99,EUR,Monthly,$13.59,"$41,582.19",Video Streaming
+,YouTube Premium,Luxembourg,11.99,EUR,Monthly,$13.59,"$112,044.59",Video Streaming
+,YouTube Premium,Netherlands,11.99,EUR,Monthly,$13.59,"$60,299.14",Video Streaming
+,YouTube Premium,Spain,11.99,EUR,Monthly,$13.59,"$43,007.50",Video Streaming
+,Netflix,Croatia,11.99,EUR,Premium,$13.59,"$29,207.13",Video Streaming
+,Netflix,Romania,11.99,EUR,Premium,$13.59,"$29,554.75",Video Streaming
+,Netflix,Lithuania,11.99,EUR,Premium,$13.59,"$38,751.02",Video Streaming
+,Netflix,Russia,11.99,EUR,Premium,$13.59,"$30,819.56",Video Streaming
+,Netflix,Israel,46.90,NIS,Standard,$13.54,"$40,336.84",Video Streaming
+,Netflix,Thailand,420.00,THB,Premium,$13.34,"$21,360.92",Video Streaming
+,Netflix,Poland,52.00,PLN,Premium,$13.26,"$35,651.18",Video Streaming
+,Apple music,Austria,14.99,EUR,Family,$16.99,"$55,171.99",Music Streaming
+,Apple music,Ireland,14.99,EUR,Family,$16.99,"$86,988.20",Music Streaming
+,Apple music,Belgium,14.99,EUR,Family,$16.99,"$50,904.69",Music Streaming
+,Apple music,Italy,14.99,EUR,Family,$16.99,"$41,582.19",Music Streaming
+,Apple music,Spain,14.99,EUR,Family,$16.99,"$43,007.50",Music Streaming
+,Apple music,Luxembourg,14.99,EUR,Family,$16.99,"$112,044.59",Music Streaming
+,Apple music,Finland,14.99,EUR,Family,$16.99,"$49,547.88",Music Streaming
+,Apple music,France,14.99,EUR,Family,$16.99,"$48,640.05",Music Streaming
+,Apple music,Netherlands,14.99,EUR,Family,$16.99,"$60,299.14",Music Streaming
+,Apple music,Germany,14.99,EUR,Family,$16.99,"$55,306.21",Music Streaming
+,Netflix,Hungary,"3,990.00",HUF,Premium,$13.12,"$35,941.19",Video Streaming
+,Netflix,Taiwan,390.00,TWD,Premium,$13.12,"$57,214.16",Video Streaming
+,Netflix,Peru,44.90,PEN,Premium,$13.10,"$15,398.62",Video Streaming
+,Netflix,Costa Rica,12.99,USD,Standard,$12.99,"$18,650.95",Video Streaming
+,Netflix,Uruguay,12.99,USD,Standard,$12.99,"$24,515.57",Video Streaming
+,Netflix,United States,12.99,USD,Standard,$12.99,"$67,426.84",Video Streaming
+,Netflix,Canada,16.99,CAD,Premium,$12.63,"$52,144.45",Video Streaming
+,Netflix,Australia,17.99,AUD,Premium,$12.57,"$54,799.04",Video Streaming
+,Netflix,Portugal,10.99,EUR,Standard,$12.45,"$34,935.82",Video Streaming
+,Netflix,Bolivia,10.99,EUR,Standard,$12.45,"$8,524.76",Video Streaming
+,Xbox,Greece,34.99,EUR,Forza Horizon,$39.65,"$31,616.27",Gaming
+,Xbox,Greece,45.49,EUR,Sekiro,$51.54,"$31,616.27",Gaming
+,Playstation,Greece,49.99,EUR,Spider-Man,$56.64,"$31,616.27",Gaming
+,Nintendo,Greece,59.99,EUR,Animal crossing,$67.97,"$31,616.27",Gaming
+,Nintendo,Greece,59.99,EUR,Mario,$67.97,"$31,616.27",Gaming
+,Nintendo,Greece,69.99,EUR,Zelda,$79.31,"$31,616.27",Gaming
+,Steam,Hong Kong,249.00,HKD,GTA V,$32.13,"$66,527.92",Gaming
+,Steam,Hong Kong,465.00,HKD,Doom Eternal,$60.00,"$66,527.92",Gaming
+,Steam,Hong Kong,94.00,HKD,PUBG,$12.13,"$66,527.92",Gaming
+,Xbox,Hong Kong,209.50,HKD,Forza Horizon,$27.03,"$66,527.92",Gaming
+,Xbox,Hong Kong,234.00,HKD,Red Dead,$30.19,"$66,527.92",Gaming
+,Xbox,Hong Kong,261.95,HKD,Sekiro,$33.80,"$66,527.92",Gaming
+,Nintendo,Hungary,59.99,EUR,Animal crossing,$67.97,"$35,941.19",Gaming
+,Nintendo,Hungary,59.99,EUR,Mario,$67.97,"$35,941.19",Gaming
+,Nintendo,Hungary,69.99,EUR,Zelda,$79.31,"$35,941.19",Gaming
+,Xbox,Hungary,"10,995.00",HUF,Red Dead,$36.16,"$35,941.19",Gaming
+,Xbox,Hungary,"13,640.00",HUF,Sekiro,$44.86,"$35,941.19",Gaming
+,Playstation,Hungary,"14,990.00",HUF,Spider-Man,$49.30,"$35,941.19",Gaming
+,Playstation,Hungary,"5,990.00",HUF,God Of War,$19.70,"$35,941.19",Gaming
+,Playstation,Hungary,"5,990.00",HUF,Bloodborne,$19.70,"$35,941.19",Gaming
+,Xbox,Hungary,"9,950.00",HUF,Forza Horizon,$32.72,"$35,941.19",Gaming
+,Steam,India,"2,099.00",INR,GTA V,$27.79,"$9,026.87",Gaming
+,Steam,India,"3,999.00",INR,Doom Eternal,$52.94,"$9,026.87",Gaming
+,Steam,India,499.00,INR,PUBG,$6.61,"$9,026.87",Gaming
+,Playstation,India,"1,499.00",INR,God Of War,$19.85,"$9,026.87",Gaming
+,Playstation,India,"1,499.00",INR,Bloodborne,$19.85,"$9,026.87",Gaming
+,Xbox,India,"1,649.50",INR,Forza Horizon,$21.84,"$9,026.87",Gaming
+,Xbox,India,"2,000.00",INR,Red Dead,$26.48,"$9,026.87",Gaming
+,Xbox,India,"2,600.00",INR,Sekiro,$34.42,"$9,026.87",Gaming
+,Playstation,India,"2,999.00",INR,Spider-Man,$39.70,"$9,026.87",Gaming
+,Twitch Prime,Netherlands,2.99,EUR,Monthly,$3.39,"$60,299.14",Video Streaming
+,Twitch Prime,Italy,3.99,EUR,Monthly,$4.52,"$41,582.19",Video Streaming
+,Twitch Prime,Spain,3.99,EUR,Monthly,$4.52,"$43,007.50",Video Streaming
+,Steam,Indonesia,"109,999.00",IDR,PUBG,$7.90,"$14,840.76",Gaming
+,Steam,Indonesia,"290,000.00",IDR,GTA V,$20.82,"$14,840.76",Gaming
+,Steam,Indonesia,"799,000.00",IDR,Doom Eternal,$57.37,"$14,840.76",Gaming
+,Steam,Ireland,14.99,EUR,PUBG,$16.99,"$86,988.20",Gaming
+,Steam,Ireland,29.99,EUR,GTA V,$33.98,"$86,988.20",Gaming
+,Steam,Ireland,59.99,EUR,Doom Eternal,$67.97,"$86,988.20",Gaming
+,Playstation,Ireland,19.99,EUR,God Of War,$22.65,"$86,988.20",Gaming
+,Playstation,Ireland,19.99,EUR,Bloodborne,$22.65,"$86,988.20",Gaming
+,Xbox,Ireland,34.99,EUR,Red Dead,$39.65,"$86,988.20",Gaming
+,Xbox,Ireland,34.99,EUR,Forza Horizon,$39.65,"$86,988.20",Gaming
+,Xbox,Ireland,45.49,EUR,Sekiro,$51.54,"$86,988.20",Gaming
+,Playstation,Ireland,49.99,EUR,Spider-Man,$56.64,"$86,988.20",Gaming
+,Nintendo,Ireland,59.99,EUR,Animal crossing,$67.97,"$86,988.20",Gaming
+,Nintendo,Ireland,59.99,EUR,Mario,$67.97,"$86,988.20",Gaming
+,Nintendo,Ireland,69.99,EUR,Zelda,$79.31,"$86,988.20",Gaming
+,Steam,Israel,144.00,ILS,GTA V,$41.65,"$40,336.84",Gaming
+,Steam,Israel,259.00,ILS,Doom Eternal,$74.91,"$40,336.84",Gaming
+,Steam,Israel,44.12,ILS,PUBG,$12.76,"$40,336.84",Gaming
+,Nintendo,Israel,59.99,EUR,Animal crossing,$67.97,"$40,336.84",Gaming
+,Nintendo,Israel,59.99,EUR,Mario,$67.97,"$40,336.84",Gaming
+,Nintendo,Israel,69.99,EUR,Zelda,$79.31,"$40,336.84",Gaming
+,Xbox,Israel,135.00,ILS,Red Dead,$39.05,"$40,336.84",Gaming
+,Xbox,Israel,150.00,ILS,Forza Horizon,$43.39,"$40,336.84",Gaming
+,Xbox,Israel,217.75,ILS,Sekiro,$62.98,"$40,336.84",Gaming
+,Amazon Prime,United Kingdom,5.99,GBP,Monthly,$7.58,"$48,168.87",Video Streaming
+,Amazon Prime,Denmark,5.99,EUR,Monthly,$6.79,"$55,674.67",Video Streaming
+,Spotify,Ireland,9.99,EUR,Individual,$11.32,"$86,988.20",Music Streaming
+,Apple music,Germany,9.99,EUR,Individual,$11.32,"$55,306.21",Music Streaming
+,Playstation,Israel,239.00,ILS,Spider-Man,$69.13,"$40,336.84",Gaming
+,Playstation,Israel,96.00,ILS,God Of War,$27.77,"$40,336.84",Gaming
+,Playstation,Israel,96.00,ILS,Bloodborne,$27.77,"$40,336.84",Gaming
+,Steam,Italy,14.99,EUR,PUBG,$16.99,"$41,582.19",Gaming
+,Steam,Italy,29.99,EUR,GTA V,$33.98,"$41,582.19",Gaming
+,Steam,Italy,59.99,EUR,Doom Eternal,$67.97,"$41,582.19",Gaming
+,Playstation,Italy,19.99,EUR,God Of War,$22.65,"$41,582.19",Gaming
+,Playstation,Italy,19.99,EUR,Bloodborne,$22.65,"$41,582.19",Gaming
+,Xbox,Italy,32.49,EUR,Forza Horizon,$36.81,"$41,582.19",Gaming
+,Xbox,Italy,34.99,EUR,Red Dead,$39.65,"$41,582.19",Gaming
+,Xbox,Italy,45.49,EUR,Sekiro,$51.54,"$41,582.19",Gaming
+,Playstation,Italy,49.99,EUR,Spider-Man,$56.64,"$41,582.19",Gaming
+,Nintendo,Italy,59.99,EUR,Animal crossing,$67.97,"$41,582.19",Gaming
+,Nintendo,Italy,59.99,EUR,Mario,$67.97,"$41,582.19",Gaming
+,Nintendo,Italy,69.99,EUR,Zelda,$79.31,"$41,582.19",Gaming
+,Steam,Japan,"1,650.00",JPY,PUBG,$15.10,"$46,827.35",Gaming
+,Steam,Japan,"4,850.00",JPY,GTA V,$44.38,"$46,827.35",Gaming
+,Steam,Japan,"8,618.00",JPY,Doom Eternal,$78.86,"$46,827.35",Gaming
+,Xbox,Japan,"3,726.00",JPY,Forza Horizon,$34.10,"$46,827.35",Gaming
+,Xbox,Japan,"4,379.00",JPY,Red Dead,$40.07,"$46,827.35",Gaming
+,Xbox,Japan,"5,434.00",JPY,Sekiro,$49.72,"$46,827.35",Gaming
+,Steam,Kazakhstan,"20,150.00",KZT,Doom Eternal,$50.44,"$30,178.19",Gaming
+,Steam,Kazakhstan,"2,950.00",KZT,PUBG,$7.38,"$30,178.19",Gaming
+,Steam,Kazakhstan,"7,100.00",KZT,GTA V,$17.77,"$30,178.19",Gaming
+,Steam,Kuwait,22.00,KWD,Doom Eternal,$71.41,"$67,890.98",Gaming
+,Steam,Kuwait,4.52,KWD,PUBG,$14.67,"$67,890.98",Gaming
+,Steam,Kuwait,9.99,KWD,GTA V,$32.43,"$67,890.98",Gaming
+,Amazon Prime,Estonia,5.99,EUR,Monthly,$6.79,"$37,605.62",Video Streaming
+,Amazon Prime,Belgium,5.99,EUR,Monthly,$6.79,"$50,904.69",Video Streaming
+,Amazon Prime,Finland,5.99,EUR,Monthly,$6.79,"$49,547.88",Video Streaming
+,Amazon Prime,France,5.99,EUR,Monthly,$6.79,"$48,640.05",Video Streaming
+,Amazon Prime,Latvia,5.99,EUR,Monthly,$6.79,"$32,986.51",Video Streaming
+,Amazon Prime,Lithuania,5.99,EUR,Monthly,$6.79,"$38,751.02",Video Streaming
+,Amazon Prime,Netherlands,5.99,EUR,Monthly,$6.79,"$60,299.14",Video Streaming
+,Amazon Prime,Norway,5.99,EUR,Monthly,$6.79,"$79,638.07",Video Streaming
+,Amazon Prime,Russia,5.99,EUR,Monthly,$6.79,"$30,819.56",Video Streaming
+,Amazon Prime,Sweden,5.99,EUR,Monthly,$6.79,"$55,988.99",Video Streaming
+,Amazon Prime,Saint Kitts And Nevis*,5.99,EUR,Monthly,$6.79,"$26,531.00",Video Streaming
+,Amazon Prime,Bermuda*,5.99,EUR,Monthly,$6.79,"$99,400.00",Video Streaming
+,Amazon Prime,Martinique*,5.99,EUR,Monthly,$6.79,"$14,400.00",Video Streaming
+,Amazon Prime,French Guiana*,5.99,EUR,Monthly,$6.79,"$5,447.00",Video Streaming
+,Amazon Prime,New Caledonia*,5.99,EUR,Monthly,$6.79,"$32,100.00",Video Streaming
+,Amazon Prime,Sri Lanka,5.99,EUR,Monthly,$6.79,"$14,508.78",Video Streaming
+,Amazon Prime,Cambodia,5.99,EUR,Monthly,$6.79,"$5,004.10",Video Streaming
+,Amazon Prime,Albania,5.99,EUR,Monthly,$6.79,"$14,866.44",Video Streaming
+,Amazon Prime,Serbia,5.99,EUR,Monthly,$6.79,"$19,767.47",Video Streaming
+,Amazon Prime,Andorra*,5.99,EUR,Monthly,$6.79,"$49,900.00",Video Streaming
+,Amazon Prime,Luxembourg,5.99,EUR,Monthly,$6.79,"$112,044.59",Video Streaming
+,Amazon Prime,Slovakia,5.99,EUR,Monthly,$6.79,"$38,321.54",Video Streaming
+,Amazon Prime,Armenia,5.99,EUR,Monthly,$6.79,"$11,844.65",Video Streaming
+,Amazon Prime,Malta,5.99,EUR,Monthly,$6.79,"$49,589.46",Video Streaming
+,Amazon Prime,Slovenia,5.99,EUR,Monthly,$6.79,"$40,343.95",Video Streaming
+,Amazon Prime,Monaco*,5.99,EUR,Monthly,$6.79,"$115,700.00",Video Streaming
+,Amazon Prime,Belarus,5.99,EUR,Monthly,$6.79,"$21,223.74",Video Streaming
+,Amazon Prime,Greece,5.99,EUR,Monthly,$6.79,"$31,616.27",Video Streaming
+,Amazon Prime,Bosnia And Herzegovina,5.99,EUR,Monthly,$6.79,"$14,894.16",Video Streaming
+,Amazon Prime,Hungary,5.99,EUR,Monthly,$6.79,"$35,941.19",Video Streaming
+,Amazon Prime,Poland,5.99,EUR,Monthly,$6.79,"$35,651.18",Video Streaming
+,Amazon Prime,Turkey,5.99,EUR,Monthly,$6.79,"$29,326.50",Video Streaming
+,Amazon Prime,Bulgaria,5.99,EUR,Monthly,$6.79,"$26,034.33",Video Streaming
+,Amazon Prime,Iceland,5.99,EUR,Monthly,$6.79,"$56,973.68",Video Streaming
+,Amazon Prime,Portugal,5.99,EUR,Monthly,$6.79,"$34,935.82",Video Streaming
+,Amazon Prime,Ukraine,5.99,EUR,Monthly,$6.79,"$10,310.06",Video Streaming
+,Amazon Prime,Croatia,5.99,EUR,Monthly,$6.79,"$29,207.13",Video Streaming
+,Amazon Prime,Romania,5.99,EUR,Monthly,$6.79,"$29,554.75",Video Streaming
+,Amazon Prime,Cyprus,5.99,EUR,Monthly,$6.79,"$42,956.46",Video Streaming
+,Amazon Prime,Vatican City*,5.99,EUR,Monthly,$6.79,"$21,198.00",Video Streaming
+,Amazon Prime,Czech Republic,5.99,EUR,Monthly,$6.79,"$40,584.79",Video Streaming
+,Amazon Prime,Liechtenstein*,5.99,EUR,Monthly,$6.79,"$139,100.00",Video Streaming
+,Amazon Prime,San Marino,5.99,EUR,Monthly,$6.79,"$62,912.60",Video Streaming
+,Amazon Prime,Georgia,5.99,EUR,Monthly,$6.79,"$13,199.65",Video Streaming
+,Amazon Prime,Singapore,8.99,SGD,Monthly,$6.45,"$105,689.46",Video Streaming
+,Twitch Prime,France,5.99,EUR,Monthly,$6.79,"$48,640.05",Video Streaming
+,Twitch Prime,Belgium,5.99,EUR,Monthly,$6.79,"$50,904.69",Video Streaming
+,Spotify,Iceland,9.99,EUR,Individual,$11.32,"$56,973.68",Music Streaming
+,Spotify,France,9.99,EUR,Individual,$11.32,"$48,640.05",Music Streaming
+,Apple music,Sweden,99.00,SEK,Individual,$10.78,"$55,988.99",Music Streaming
+,Apple music,Norway,99.00,NOK,Individual,$10.64,"$79,638.07",Music Streaming
+,Steam,Kyrgyzstan,8.99,USD,PUBG,$8.99,"$4,192.98",Gaming
+,Steam,Kyrgyzstan,24.99,USD,GTA V,$24.99,"$4,192.98",Gaming
+,Steam,Kyrgyzstan,29.99,USD,Doom Eternal,$29.99,"$4,192.98",Gaming
+,Steam,Laos,14.99,USD,PUBG,$14.99,"$8,683.69",Gaming
+,Steam,Laos,19.99,USD,GTA V,$19.99,"$8,683.69",Gaming
+,Steam,Laos,59.99,USD,Doom Eternal,$59.99,"$8,683.69",Gaming
+,Steam,Latvia,14.99,EUR,PUBG,$16.99,"$32,986.51",Gaming
+,Steam,Latvia,29.99,EUR,GTA V,$33.98,"$32,986.51",Gaming
+,Steam,Latvia,59.99,EUR,Doom Eternal,$67.97,"$32,986.51",Gaming
+,Nintendo,Latvia,59.99,EUR,Animal crossing,$67.97,"$32,986.51",Gaming
+,Nintendo,Latvia,59.99,EUR,Mario,$67.97,"$32,986.51",Gaming
+,Nintendo,Latvia,69.99,EUR,Zelda,$79.31,"$32,986.51",Gaming
+,Steam,Lithuania,14.99,EUR,PUBG,$16.99,"$38,751.02",Gaming
+,Steam,Lithuania,29.99,EUR,GTA V,$33.98,"$38,751.02",Gaming
+,Steam,Lithuania,59.99,EUR,Doom Eternal,$67.97,"$38,751.02",Gaming
+,Nintendo,Lithuania,59.99,EUR,Animal crossing,$67.97,"$38,751.02",Gaming
+,Nintendo,Lithuania,59.99,EUR,Mario,$67.97,"$38,751.02",Gaming
+,Nintendo,Lithuania,69.99,EUR,Zelda,$79.31,"$38,751.02",Gaming
+,Steam,Luxembourg,14.99,EUR,PUBG,$16.99,"$112,044.59",Gaming
+,Steam,Luxembourg,29.99,EUR,GTA V,$33.98,"$112,044.59",Gaming
+,Steam,Luxembourg,59.99,EUR,Doom Eternal,$67.97,"$112,044.59",Gaming
+,Playstation,Luxembourg,19.99,EUR,God Of War,$22.65,"$112,044.59",Gaming
+,Playstation,Luxembourg,19.99,EUR,Bloodborne,$22.65,"$112,044.59",Gaming
+,Playstation,Luxembourg,49.99,EUR,Spider-Man,$56.64,"$112,044.59",Gaming
+,Nintendo,Luxembourg,59.99,EUR,Animal crossing,$67.97,"$112,044.59",Gaming
+,Nintendo,Luxembourg,59.99,EUR,Mario,$67.97,"$112,044.59",Gaming
+,Nintendo,Luxembourg,69.99,EUR,Zelda,$79.31,"$112,044.59",Gaming
+,Steam,Malaysia,119.00,MYR,GTA V,$27.84,"$34,567.07",Gaming
+,Steam,Malaysia,236.99,MYR,Doom Eternal,$55.44,"$34,567.07",Gaming
+,Steam,Malaysia,37.49,MYR,PUBG,$8.77,"$34,567.07",Gaming
+,Steam,Malta,14.99,EUR,PUBG,$16.99,"$49,589.46",Gaming
+,Steam,Malta,29.99,EUR,GTA V,$33.98,"$49,589.46",Gaming
+,Steam,Malta,59.99,EUR,Doom Eternal,$67.97,"$49,589.46",Gaming
+,Playstation,Malta,19.99,EUR,God Of War,$22.65,"$49,589.46",Gaming
+,Playstation,Malta,19.99,EUR,Bloodborne,$22.65,"$49,589.46",Gaming
+,Playstation,Malta,49.99,EUR,Spider-Man,$56.64,"$49,589.46",Gaming
+,Nintendo,Malta,59.99,EUR,Animal crossing,$67.97,"$49,589.46",Gaming
+,Nintendo,Malta,59.99,EUR,Mario,$67.97,"$49,589.46",Gaming
+,Nintendo,Malta,69.99,EUR,Zelda,$79.31,"$49,589.46",Gaming
+,Steam,Mexico,"1,399.00",MXN,Doom Eternal,$64.43,"$21,362.85",Gaming
+,Steam,Mexico,150.00,MXN,PUBG,$6.91,"$21,362.85",Gaming
+,Steam,Mexico,599.00,MXN,GTA V,$27.59,"$21,362.85",Gaming
+,Nintendo,Mexico,"1,499.00",MXN,Animal crossing,$69.04,"$21,362.85",Gaming
+,Nintendo,Mexico,"1,599.00",MXN,Zelda,$73.64,"$21,362.85",Gaming
+,Nintendo,Mexico,"1,599.00",MXN,Mario,$73.64,"$21,362.85",Gaming
+,Xbox,Mexico,597.50,MXN,Red Dead,$27.52,"$21,362.85",Gaming
+,Xbox,Mexico,649.50,MXN,Forza Horizon,$29.91,"$21,362.85",Gaming
+,Xbox,Mexico,845.00,MXN,Sekiro,$38.92,"$21,362.85",Gaming
+,Spotify,Finland,9.99,EUR,Individual,$11.32,"$49,547.88",Music Streaming
+,Spotify,Spain,9.99,EUR,Individual,$11.32,"$43,007.50",Music Streaming
+,Spotify,Germany,9.99,EUR,Individual,$11.32,"$55,306.21",Music Streaming
+,Spotify,Belgium,9.99,EUR,Individual,$11.32,"$50,904.69",Music Streaming
+,Spotify,Andorra*,9.99,EUR,Individual,$11.32,"$49,900.00",Music Streaming
+,Spotify,Sweden,99.00,SEK,Individual,$10.78,"$55,988.99",Music Streaming
+,Spotify,United States,9.99,USD,Individual,$9.99,"$67,426.84",Music Streaming
+,Apple music,United States,9.99,USD,Individual,$9.99,"$67,426.84",Music Streaming
+,Apple music,Anguilla*,9.99,USD,Individual,$9.99,"$12,200.00",Music Streaming
+,Apple music,Montserrat*,9.99,USD,Individual,$9.99,"$34,000.00",Music Streaming
+,Apple music,Antigua And Barbuda,9.99,USD,Individual,$9.99,"$30,593.26",Music Streaming
+,Apple music,Costa Rica,9.99,USD,Individual,$9.99,"$18,650.95",Music Streaming
+,Apple music,Nicaragua,9.99,USD,Individual,$9.99,"$5,296.56",Music Streaming
+,Playstation,Mexico,19.99,USD,God Of War,$19.99,"$21,362.85",Gaming
+,Playstation,Mexico,19.99,USD,Bloodborne,$19.99,"$21,362.85",Gaming
+,Playstation,Mexico,39.99,USD,Spider-Man,$39.99,"$21,362.85",Gaming
+,Steam,Moldova,8.99,USD,PUBG,$8.99,"$8,160.54",Gaming
+,Steam,Moldova,24.99,USD,GTA V,$24.99,"$8,160.54",Gaming
+,Steam,Moldova,29.99,USD,Doom Eternal,$29.99,"$8,160.54",Gaming
+,Steam,Myanmar,14.99,USD,PUBG,$14.99,"$7,219.61",Gaming
+,Steam,Myanmar,19.99,USD,GTA V,$19.99,"$7,219.61",Gaming
+,Steam,Myanmar,59.99,USD,Doom Eternal,$59.99,"$7,219.61",Gaming
+,Steam,Netherlands,14.99,EUR,PUBG,$16.99,"$60,299.14",Gaming
+,Steam,Netherlands,29.99,EUR,GTA V,$33.98,"$60,299.14",Gaming
+,Steam,Netherlands,59.99,EUR,Doom Eternal,$67.97,"$60,299.14",Gaming
+,Playstation,Netherlands,19.99,EUR,God Of War,$22.65,"$60,299.14",Gaming
+,Playstation,Netherlands,19.99,EUR,Bloodborne,$22.65,"$60,299.14",Gaming
+,Xbox,Netherlands,34.99,EUR,Red Dead,$39.65,"$60,299.14",Gaming
+,Xbox,Netherlands,34.99,EUR,Forza Horizon,$39.65,"$60,299.14",Gaming
+,Xbox,Netherlands,45.49,EUR,Sekiro,$51.54,"$60,299.14",Gaming
+,Playstation,Netherlands,49.99,EUR,Spider-Man,$56.64,"$60,299.14",Gaming
+,Nintendo,Netherlands,59.99,EUR,Animal crossing,$67.97,"$60,299.14",Gaming
+,Nintendo,Netherlands,59.99,EUR,Mario,$67.97,"$60,299.14",Gaming
+,Nintendo,Netherlands,69.99,EUR,Zelda,$79.31,"$60,299.14",Gaming
+,Steam,New Zealand,119.95,NZD,Doom Eternal,$77.96,"$42,044.57",Gaming
+,Steam,New Zealand,19.99,NZD,PUBG,$12.99,"$42,044.57",Gaming
+,Steam,New Zealand,54.95,NZD,GTA V,$35.72,"$42,044.57",Gaming
+,YouTube Premium,Slovakia,7.19,EUR,Monthly,$8.15,"$38,321.54",Video Streaming
+,YouTube Premium,Slovenia,7.19,EUR,Monthly,$8.15,"$40,343.95",Video Streaming
+,Netflix,Netherlands,10.99,EUR,Standard,$12.45,"$60,299.14",Video Streaming
+,Netflix,Guatemala,10.99,EUR,Standard,$12.45,"$9,009.03",Video Streaming
+,Netflix,Belgium,10.99,EUR,Standard,$12.45,"$50,904.69",Video Streaming
+,Netflix,Greece,10.99,EUR,Standard,$12.45,"$31,616.27",Video Streaming
+,Netflix,Luxembourg,10.99,EUR,Standard,$12.45,"$112,044.59",Video Streaming
+,Netflix,Switzerland,11.90,CHF,Basic,$12.42,"$67,557.70",Video Streaming
+,Netflix,Singapore,16.98,SGD,Premium,$12.19,"$105,689.46",Video Streaming
+,Netflix,Indonesia,"169,000.00",IDR,Premium,$12.14,"$14,840.76",Video Streaming
+,Netflix,Hong Kong,93.00,HKD,Premium,$12.00,"$66,527.92",Video Streaming
+,Netflix,South Korea,"14,500.00",KRW,Premium,$12.00,"$46,451.61",Video Streaming
+,Netflix,Iran*,11.99,USD,Premium,$11.99,"$19,098.00",Video Streaming
+,Netflix,Egypt,11.99,USD,Premium,$11.99,"$14,800.34",Video Streaming
+,Netflix,Iraq,11.99,USD,Premium,$11.99,"$18,754.87",Video Streaming
+,Netflix,Algeria,11.99,USD,Premium,$11.99,"$16,090.69",Video Streaming
+,Netflix,Jordan,11.99,USD,Premium,$11.99,"$9,939.37",Video Streaming
+,Netflix,Lebanon,11.99,USD,Premium,$11.99,"$15,598.81",Video Streaming
+,Netflix,Morocco,11.99,USD,Premium,$11.99,"$9,666.65",Video Streaming
+,Netflix,Tunisia,11.99,USD,Premium,$11.99,"$13,092.76",Video Streaming
+,Netflix,Nigeria,11.99,USD,Premium,$11.99,"$6,171.68",Video Streaming
+,Netflix,Zambia,11.99,USD,Premium,$11.99,"$4,174.26",Video Streaming
+,Netflix,Kenya,11.99,USD,Premium,$11.99,"$4,078.18",Video Streaming
+,Netflix,Zimbabwe,11.99,USD,Premium,$11.99,"$2,777.69",Video Streaming
+,Netflix,Nepal,11.99,USD,Premium,$11.99,"$3,549.85",Video Streaming
+,Netflix,Bangladesh,11.99,USD,Premium,$11.99,"$5,453.01",Video Streaming
+,Netflix,Denmark,79.00,DKK,Basic,$11.98,"$55,674.67",Video Streaming
+,Amazon Prime,New Zealand,5.99,USD,Monthly,$5.99,"$42,044.57",Video Streaming
+,Amazon Prime,South Africa,5.99,USD,Monthly,$5.99,"$13,965.17",Video Streaming
+,Amazon Prime,South Korea,5.99,USD,Monthly,$5.99,"$46,451.61",Video Streaming
+,Twitch Prime,Germany,7.99,EUR,Monthly,$9.05,"$55,306.21",Video Streaming
+,Twitch Prime,Austria,7.99,EUR,Monthly,$9.05,"$55,171.99",Video Streaming
+,Spotify,New Zealand,14.99,NZD,Individual,$9.74,"$42,044.57",Music Streaming
+,Apple music,Montenegro,7.99,EUR,Family,$9.05,"$20,976.74",Music Streaming
+,YouTube Premium,Cyprus,8.49,EUR,Monthly,$9.62,"$42,956.46",Video Streaming
+,YouTube Premium,Estonia,8.49,EUR,Monthly,$9.62,"$37,605.62",Video Streaming
+,YouTube Premium,Greece,8.49,EUR,Monthly,$9.62,"$31,616.27",Video Streaming
+,YouTube Premium,Latvia,8.49,EUR,Monthly,$9.62,"$32,986.51",Video Streaming
+,YouTube Premium,Lithuania,8.49,EUR,Monthly,$9.62,"$38,751.02",Video Streaming
+,YouTube Premium,Portugal,8.49,EUR,Monthly,$9.62,"$34,935.82",Video Streaming
+,Apple music,Slovakia,8.99,EUR,Family,$10.19,"$38,321.54",Music Streaming
+,Apple music,Slovenia,8.99,EUR,Family,$10.19,"$40,343.95",Music Streaming
+,Netflix,Malaysia,51.00,MYR,Premium,$11.93,"$34,567.07",Video Streaming
+,Netflix,Sweden,109.00,SEK,Standard,$11.87,"$55,988.99",Video Streaming
+,Netflix,Norway,109.00,NOK,Standard,$11.72,"$79,638.07",Video Streaming
+,Netflix,United Kingdom,8.99,GBP,Standard,$11.38,"$48,168.87",Video Streaming
+,Netflix,Slovenia,9.99,EUR,Standard,$11.32,"$40,343.95",Video Streaming
+,Netflix,Estonia,9.99,EUR,Standard,$11.32,"$37,605.62",Video Streaming
+,Netflix,Latvia,9.99,EUR,Standard,$11.32,"$32,986.51",Video Streaming
+,Netflix,Ukraine,9.99,EUR,Standard,$11.32,"$10,310.06",Video Streaming
+,Spotify,Bulgaria,7.99,EUR,Individual,$9.05,"$26,034.33",Music Streaming
+,Spotify,Japan,980.00,JPY,Individual,$8.97,"$46,827.35",Music Streaming
+,Spotify,Australia,11.99,AUD,Individual,$8.38,"$54,799.04",Music Streaming
+,Spotify,Uruguay,7.99,USD,Individual,$7.99,"$24,515.57",Music Streaming
+,Spotify,Greece,6.99,EUR,Individual,$7.92,"$31,616.27",Music Streaming
+,Spotify,Portugal,6.99,EUR,Individual,$7.92,"$34,935.82",Music Streaming
+,Spotify,Malta,6.99,EUR,Individual,$7.92,"$49,589.46",Music Streaming
+,Spotify,Lithuania,6.99,EUR,Individual,$7.92,"$38,751.02",Music Streaming
+,Spotify,Latvia,6.99,EUR,Individual,$7.92,"$32,986.51",Music Streaming
+,Spotify,Estonia,6.99,EUR,Individual,$7.92,"$37,605.62",Music Streaming
+,Spotify,Cyprus,6.99,EUR,Individual,$7.92,"$42,956.46",Music Streaming
+,Spotify,Malaysia,33.00,MYR,Individual,$7.72,"$34,567.07",Music Streaming
+,Spotify,Hong Kong,58.00,HKD,Individual,$7.48,"$66,527.92",Music Streaming
+,Apple music,Argentina,9.99,USD,Individual,$9.99,"$19,970.52",Music Streaming
+,Apple music,Dominica,9.99,USD,Individual,$9.99,"$12,850.78",Music Streaming
+,Apple music,Panama,9.99,USD,Individual,$9.99,"$28,456.01",Music Streaming
+,Apple music,Bahamas*,9.99,USD,Individual,$9.99,"$28,705.28",Music Streaming
+,Apple music,Dominican Republic,9.99,USD,Individual,$9.99,"$20,625.37",Music Streaming
+,Apple music,Paraguay,9.99,USD,Individual,$9.99,"$14,212.92",Music Streaming
+,Apple music,Barbados,9.99,USD,Individual,$9.99,"$19,363.58",Music Streaming
+,Apple music,Peru,9.99,USD,Individual,$9.99,"$15,398.62",Music Streaming
+,Apple music,New Zealand,14.99,NZD,Individual,$9.74,"$42,044.57",Music Streaming
+,Apple music,Japan,980.00,JPY,Individual,$8.97,"$46,827.35",Music Streaming
+,Netflix,Croatia,9.99,EUR,Standard,$11.32,"$29,207.13",Video Streaming
+,YouTube Premium,United Kingdom,11.99,GBP,Monthly,$15.17,"$48,168.87",Video Streaming
+,Apple music,United Kingdom,14.99,GBP,Family,$18.97,"$48,168.87",Music Streaming
+,Playstation,New Zealand,34.95,NZD,God Of War,$22.72,"$42,044.57",Gaming
+,Playstation,New Zealand,34.95,NZD,Bloodborne,$22.72,"$42,044.57",Gaming
+,Xbox,New Zealand,54.95,NZD,Forza Horizon,$35.72,"$42,044.57",Gaming
+,Xbox,New Zealand,54.97,NZD,Red Dead,$35.73,"$42,044.57",Gaming
+,Xbox,New Zealand,71.46,NZD,Sekiro,$46.45,"$42,044.57",Gaming
+,Nintendo,New Zealand,89.95,NZD,Animal crossing,$58.46,"$42,044.57",Gaming
+,Nintendo,New Zealand,89.95,NZD,Mario,$58.46,"$42,044.57",Gaming
+,Playstation,New Zealand,89.95,NZD,Spider-Man,$58.46,"$42,044.57",Gaming
+,Netflix,Romania,9.99,EUR,Standard,$11.32,"$29,554.75",Video Streaming
+,Amazon Prime,Israel,5.99,USD,Monthly,$5.99,"$40,336.84",Video Streaming
+,Amazon Prime,Peru,5.99,USD,Monthly,$5.99,"$15,398.62",Video Streaming
+,Nintendo,New Zealand,99.95,NZD,Zelda,$64.96,"$42,044.57",Gaming
+,Twitch Prime,United Kingdom,7.99,GBP,Monthly,$10.11,"$48,168.87",Video Streaming
+,Netflix,Lithuania,9.99,EUR,Standard,$11.32,"$38,751.02",Video Streaming
+,Spotify,Singapore,9.90,SGD,Individual,$7.11,"$105,689.46",Music Streaming
+,Apple music,Australia,11.99,AUD,Individual,$8.38,"$54,799.04",Music Streaming
+,Steam,Norway,129.50,NOK,PUBG,$13.92,"$79,638.07",Gaming
+,Steam,Norway,299.00,NOK,GTA V,$32.14,"$79,638.07",Gaming
+,Steam,Norway,599.00,NOK,Doom Eternal,$64.38,"$79,638.07",Gaming
+,YouTube Premium,Hong Kong,68.00,HKD,Monthly,$8.77,"$66,527.92",Video Streaming
+,Playstation,Norway,189.00,NOK,God Of War,$20.31,"$79,638.07",Gaming
+,Playstation,Norway,189.00,NOK,Bloodborne,$20.31,"$79,638.07",Gaming
+,Xbox,Norway,324.50,NOK,Forza Horizon,$34.88,"$79,638.07",Gaming
+,Spotify,Slovakia,5.99,EUR,Individual,$6.79,"$38,321.54",Music Streaming
+,Apple music,Portugal,6.99,EUR,Individual,$7.92,"$34,935.82",Music Streaming
+,Netflix,Russia,9.99,EUR,Standard,$11.32,"$30,819.56",Video Streaming
+,Netflix,Vietnam,"260,000.00",VND,Premium,$11.22,"$8,677.54",Video Streaming
+,Apple music,Hong Kong,88.00,HKD,Family,$11.36,"$66,527.92",Music Streaming
+,Netflix,Thailand,350.00,THB,Standard,$11.12,"$21,360.92",Video Streaming
+,Apple music,Latvia,6.99,EUR,Individual,$7.92,"$32,986.51",Music Streaming
+,Apple music,Croatia,69.99,HRK,Family,$10.47,"$29,207.13",Music Streaming
+,YouTube Premium,Croatia,71.99,HRK,Monthly,$10.77,"$29,207.13",Video Streaming
+,Xbox,Norway,349.50,NOK,Red Dead,$37.56,"$79,638.07",Gaming
+,Xbox,Norway,415.35,NOK,Sekiro,$44.64,"$79,638.07",Gaming
+,Playstation,Norway,459.00,NOK,Spider-Man,$49.33,"$79,638.07",Gaming
+,Nintendo,Norway,589.00,NOK,Animal crossing,$63.31,"$79,638.07",Gaming
+,Nintendo,Norway,589.00,NOK,Mario,$63.31,"$79,638.07",Gaming
+,Nintendo,Norway,679.00,NOK,Zelda,$72.98,"$79,638.07",Gaming
+,Apple music,Lithuania,6.99,EUR,Individual,$7.92,"$38,751.02",Music Streaming
+,YouTube Premium,Hungary,"1,790.00",HUF,Monthly,$5.89,"$35,941.19",Video Streaming
+,Netflix,Taiwan,330.00,TWD,Standard,$11.10,"$57,214.16",Video Streaming
+,Apple music,Hungary,"2,290.00",HUF,Family,$7.53,"$35,941.19",Music Streaming
+,Netflix,New Zealand,16.99,NZD,Standard,$11.04,"$42,044.57",Video Streaming
+,Netflix,Czech Republic,259.00,CZK,Standard,$11.04,"$40,584.79",Video Streaming
+,Netflix,Philippines,550.00,PHP,Premium,$11.04,"$10,094.39",Video Streaming
+,Netflix,Venezuela,10.99,USD,Standard,$10.99,"$5,699.00",Video Streaming
+,Netflix,Japan,"1,200.00",JPY,Standard,$10.98,"$46,827.35",Video Streaming
+,Apple music,Estonia,6.99,EUR,Individual,$7.92,"$37,605.62",Music Streaming
+,YouTube Premium,Indonesia,"59,000.00",IDR,Monthly,$4.24,"$14,840.76",Video Streaming
+,Apple music,Indonesia,"75,000.00",IDR,Family,$5.39,"$14,840.76",Music Streaming
+,Steam,Peru,233.00,PEN,Doom Eternal,$67.96,"$15,398.62",Gaming
+,Steam,Peru,26.00,PEN,PUBG,$7.58,"$15,398.62",Gaming
+,Apple music,Malta,6.99,EUR,Individual,$7.92,"$49,589.46",Music Streaming
+,Steam,Peru,99.90,PEN,GTA V,$29.14,"$15,398.62",Gaming
+,Steam,Philippines,"2,760.00",PHP,Doom Eternal,$55.39,"$10,094.39",Gaming
+,Apple music,Israel,29.90,ILS,Family,$8.65,"$40,336.84",Music Streaming
+,Steam,Philippines,379.97,PHP,PUBG,$7.62,"$10,094.39",Gaming
+,Steam,Philippines,999.00,PHP,GTA V,$20.05,"$10,094.39",Gaming
+,Xbox,Poland,124.99,PLN,Forza Horizon,$31.88,"$35,651.18",Gaming
+,Xbox,Poland,144.49,PLN,Red Dead,$36.86,"$35,651.18",Gaming
+,Xbox,Poland,188.49,PLN,Sekiro,$48.08,"$35,651.18",Gaming
+,YouTube Premium,India,129.00,INR,Monthly,$1.71,"$9,026.87",Video Streaming
+,Apple music,India,149.00,INR,Family,$1.97,"$9,026.87",Music Streaming
+,Playstation,Poland,209.00,PLN,Spider-Man,$53.31,"$35,651.18",Gaming
+,Nintendo,Poland,249.80,PLN,Animal crossing,$63.72,"$35,651.18",Gaming
+,Nintendo,Poland,249.80,PLN,Mario,$63.72,"$35,651.18",Gaming
+,Netflix,Poland,43.00,PLN,Standard,$10.97,"$35,651.18",Video Streaming
+,Netflix,United Arab Emirates,39.00,AED,Standard,$10.65,"$70,441.55",Video Streaming
+,Netflix,India,799.00,INR,Premium,$10.58,"$9,026.87",Video Streaming
+,Apple music,Greece,6.99,EUR,Individual,$7.92,"$31,616.27",Music Streaming
+,Netflix,Mexico,229.00,MXN,Premium,$10.55,"$21,362.85",Video Streaming
+,Netflix,Hungary,"3,190.00",HUF,Standard,$10.49,"$35,941.19",Video Streaming
+,YouTube Premium,Japan,"1,180.00",JPY,Monthly,$10.80,"$46,827.35",Video Streaming
+,Apple music,Japan,"1,480.00",JPY,Family,$13.54,"$46,827.35",Music Streaming
+,Nintendo,Poland,289.80,PLN,Zelda,$73.93,"$35,651.18",Gaming
+,Playstation,Poland,79.00,PLN,God Of War,$20.15,"$35,651.18",Gaming
+,Playstation,Poland,79.00,PLN,Bloodborne,$20.15,"$35,651.18",Gaming
+,Twitch Prime,Japan,500.00,JPY,Monthly,$4.58,"$46,827.35",Video Streaming
+,Netflix,Chile,"7,990.00",CPL,Premium,$10.43,"$27,150.38",Video Streaming
+,Apple music,Hong Kong,58.00,HKD,Individual,$7.48,"$66,527.92",Music Streaming
+,Netflix,Canada,13.99,CAD,Standard,$10.40,"$52,144.45",Video Streaming
+,Netflix,Saudi Arabia,39.00,SAR,Standard,$10.39,"$56,912.37",Video Streaming
+,Netflix,Peru,34.90,PEN,Standard,$10.18,"$15,398.62",Video Streaming
+,Steam,Poland,129.90,PLN,GTA V,$33.14,"$35,651.18",Gaming
+,Steam,Poland,249.99,PLN,Doom Eternal,$63.77,"$35,651.18",Gaming
+,Steam,Poland,36.49,PLN,PUBG,$9.31,"$35,651.18",Gaming
+,Steam,Portugal,14.99,EUR,PUBG,$16.99,"$34,935.82",Gaming
+,Steam,Portugal,29.99,EUR,GTA V,$33.98,"$34,935.82",Gaming
+,Steam,Portugal,59.99,EUR,Doom Eternal,$67.97,"$34,935.82",Gaming
+,Netflix,Hong Kong,78.00,HKD,Standard,$10.06,"$66,527.92",Video Streaming
+,Apple music,South Korea,"13,500.00",KRW,Family,$11.17,"$46,451.61",Music Streaming
+,Netflix,Singapore,13.98,SGD,Standard,$10.04,"$105,689.46",Video Streaming
+,Playstation,Portugal,19.99,EUR,God Of War,$22.65,"$34,935.82",Gaming
+,Playstation,Portugal,19.99,EUR,Bloodborne,$22.65,"$34,935.82",Gaming
+,Xbox,Portugal,34.99,EUR,Red Dead,$39.65,"$34,935.82",Gaming
+,YouTube Premium,South Korea,"7,900.00",KRW,Monthly,$6.54,"$46,451.61",Video Streaming
+,Apple music,Canada,9.99,CAD,Individual,$7.43,"$52,144.45",Music Streaming
+,Netflix,South Africa,169.00,ZAR,Premium,$10.04,"$13,965.17",Video Streaming
+,Xbox,Portugal,34.99,EUR,Forza Horizon,$39.65,"$34,935.82",Gaming
+,Xbox,Portugal,45.49,EUR,Sekiro,$51.54,"$34,935.82",Gaming
+,Playstation,Portugal,49.99,EUR,Spider-Man,$56.64,"$34,935.82",Gaming
+,Amazon Prime,Colombia,5.99,USD,Monthly,$5.99,"$16,264.97",Video Streaming
+,Nintendo,Portugal,59.99,EUR,Animal crossing,$67.97,"$34,935.82",Gaming
+,Nintendo,Portugal,59.99,EUR,Mario,$67.97,"$34,935.82",Gaming
+,Nintendo,Portugal,69.99,EUR,Zelda,$79.31,"$34,935.82",Gaming
+,YouTube Premium,Mexico,119.00,MXN,Monthly,$5.48,"$21,362.85",Video Streaming
+,Netflix,Iran*,9.99,USD,Standard,$9.99,"$19,098.00",Video Streaming
+,Apple music,Mexico,149.00,MXN,Family,$6.86,"$21,362.85",Music Streaming
+,Netflix,Egypt,9.99,USD,Standard,$9.99,"$14,800.34",Video Streaming
+,Netflix,Qatar,9.99,USD,Standard,$9.99,"$138,909.78",Video Streaming
+,Steam,Qatar,120.00,QAR,GTA V,$32.86,"$138,909.78",Gaming
+,Steam,Qatar,259.00,QAR,Doom Eternal,$70.92,"$138,909.78",Gaming
+,Steam,Qatar,55.67,QAR,PUBG,$15.24,"$138,909.78",Gaming
+,Spotify,Czech Republic,5.99,EUR,Individual,$6.79,"$40,584.79",Music Streaming
+,Apple music,South Korea,"8,900.00",KRW,Individual,$7.36,"$46,451.61",Music Streaming
+,Twitch Prime,Mexico,99.00,MXN,Monthly,$4.56,"$21,362.85",Video Streaming
+,Apple music,Singapore,9.98,SGD,Individual,$7.16,"$105,689.46",Music Streaming
+,Apple music,Malaysia,22.90,MYR,Family,$5.36,"$34,567.07",Music Streaming
+,Apple music,Nigeria,"1,400.00",NGN,Family,$3.87,"$6,171.68",Music Streaming
+,Apple music,Macau*,6.99,USD,Individual,$6.99,"$110,000.00",Music Streaming
+,Netflix,Iraq,9.99,USD,Standard,$9.99,"$18,754.87",Video Streaming
+,Netflix,Algeria,9.99,USD,Standard,$9.99,"$16,090.69",Video Streaming
+,Netflix,Jordan,9.99,USD,Standard,$9.99,"$9,939.37",Video Streaming
+,Nintendo,Romania,59.99,EUR,Animal crossing,$67.97,"$29,554.75",Gaming
+,Nintendo,Romania,59.99,EUR,Mario,$67.97,"$29,554.75",Gaming
+,Nintendo,Romania,69.99,EUR,Zelda,$79.31,"$29,554.75",Gaming
+,Playstation,Romania,229.90,RON,Spider-Man,$53.83,"$29,554.75",Gaming
+,Playstation,Romania,89.90,RON,God Of War,$21.05,"$29,554.75",Gaming
+,Playstation,Romania,89.90,RON,Bloodborne,$21.05,"$29,554.75",Gaming
+,Steam,Russia,"1,499.00",RUB,GTA V,$21.84,"$30,819.56",Gaming
+,Steam,Russia,"1,999.00",RUB,Doom Eternal,$29.13,"$30,819.56",Gaming
+,Steam,Russia,474.00,RUB,PUBG,$6.91,"$30,819.56",Gaming
+,Netflix,Lebanon,9.99,USD,Standard,$9.99,"$15,598.81",Video Streaming
+,Spotify,Dominican Republic,5.99,USD,Individual,$5.99,"$20,625.37",Music Streaming
+,YouTube Premium,Norway,119.00,NOK,Monthly,$12.79,"$79,638.07",Video Streaming
+,Netflix,Kuwait,9.99,USD,Standard,$9.99,"$67,890.98",Video Streaming
+,Apple music,Norway,149.00,NOK,Family,$16.01,"$79,638.07",Music Streaming
+,Netflix,Morocco,9.99,USD,Standard,$9.99,"$9,666.65",Video Streaming
+,Apple music,Slovakia,5.99,EUR,Individual,$6.79,"$38,321.54",Music Streaming
+,Nintendo,Russia,"4,499.00",RUB,Animal crossing,$65.56,"$30,819.56",Gaming
+,Nintendo,Russia,"4,499.00",RUB,Mario,$65.56,"$30,819.56",Gaming
+,Nintendo,Russia,"5,249.00",RUB,Zelda,$76.49,"$30,819.56",Gaming
+,Xbox,Russia,29.99,USD,Red Dead,$29.99,"$30,819.56",Gaming
+,Xbox,Russia,29.99,USD,Forza Horizon,$29.99,"$30,819.56",Gaming
+,Xbox,Russia,38.99,USD,Sekiro,$38.99,"$30,819.56",Gaming
+,Netflix,Tunisia,9.99,USD,Standard,$9.99,"$13,092.76",Video Streaming
+,Spotify,Paraguay,5.99,USD,Individual,$5.99,"$14,212.92",Music Streaming
+,Apple music,Slovenia,5.99,EUR,Individual,$6.79,"$40,343.95",Music Streaming
+,YouTube Premium,New Zealand,15.99,NZD,Monthly,$10.39,"$42,044.57",Video Streaming
+,Netflix,Bahrain,9.99,USD,Standard,$9.99,"$51,991.13",Video Streaming
+,Netflix,Nigeria,9.99,USD,Standard,$9.99,"$6,171.68",Video Streaming
+,Apple music,New Zealand,22.99,NZD,Family,$14.94,"$42,044.57",Music Streaming
+,Xbox,Saudi Arabia,124.50,SAR,Forza Horizon,$33.17,"$56,912.37",Gaming
+,Xbox,Saudi Arabia,155.35,SAR,Sekiro,$41.39,"$56,912.37",Gaming
+,Xbox,Saudi Arabia,310.00,SAR,Red Dead,$82.58,"$56,912.37",Gaming
+,Steam,Saudi Arabia,269.00,SAR,Doom Eternal,$71.66,"$56,912.37",Gaming
+,Steam,Saudi Arabia,60.00,SAR,PUBG,$15.98,"$56,912.37",Gaming
+,Steam,Singapore,17.49,SGD,PUBG,$12.56,"$105,689.46",Gaming
+,Steam,Singapore,41.90,SGD,GTA V,$30.08,"$105,689.46",Gaming
+,Steam,Singapore,81.30,SGD,Doom Eternal,$58.36,"$105,689.46",Gaming
+,Xbox,Singapore,37.50,SGD,Forza Horizon,$26.92,"$105,689.46",Gaming
+,Spotify,Panama,5.99,USD,Individual,$5.99,"$28,456.01",Music Streaming
+,YouTube Premium,Peru,20.90,PEN,Monthly,$6.10,"$15,398.62",Video Streaming
+,Netflix,Zambia,9.99,USD,Standard,$9.99,"$4,174.26",Video Streaming
+,Netflix,Kenya,9.99,USD,Standard,$9.99,"$4,078.18",Video Streaming
+,Netflix,Zimbabwe,9.99,USD,Standard,$9.99,"$2,777.69",Video Streaming
+,YouTube Premium,Philippines,159.00,PHP,Monthly,$3.19,"$10,094.39",Video Streaming
+,Spotify,Nicaragua,5.99,USD,Individual,$5.99,"$5,296.56",Music Streaming
+,Apple music,Croatia,44.99,HRK,Individual,$6.73,"$29,207.13",Music Streaming
+,Apple music,Philippines,199.00,PHP,Family,$3.99,"$10,094.39",Music Streaming
+,Netflix,Nepal,9.99,USD,Standard,$9.99,"$3,549.85",Video Streaming
+,Netflix,Bangladesh,9.99,USD,Standard,$9.99,"$5,453.01",Video Streaming
+,Netflix,Indonesia,"139,000.00",IDR,Standard,$9.98,"$14,840.76",Video Streaming
+,Xbox,Singapore,40.95,SGD,Red Dead,$29.40,"$105,689.46",Gaming
+,Xbox,Singapore,42.18,SGD,Sekiro,$30.28,"$105,689.46",Gaming
+,Steam,Slovakia,14.99,EUR,PUBG,$16.99,"$38,321.54",Gaming
+,Steam,Slovakia,29.99,EUR,GTA V,$33.98,"$38,321.54",Gaming
+,Steam,Slovakia,59.99,EUR,Doom Eternal,$67.97,"$38,321.54",Gaming
+,Playstation,Slovakia,19.99,EUR,God Of War,$22.65,"$38,321.54",Gaming
+,Playstation,Slovakia,19.99,EUR,Bloodborne,$22.65,"$38,321.54",Gaming
+,Xbox,Slovakia,34.99,EUR,Red Dead,$39.65,"$38,321.54",Gaming
+,Xbox,Slovakia,34.99,EUR,Forza Horizon,$39.65,"$38,321.54",Gaming
+,Spotify,Honduras,5.99,USD,Individual,$5.99,"$5,599.65",Music Streaming
+,Apple music,Czech Republic,149.00,CZK,Individual,$6.35,"$40,584.79",Music Streaming
+,YouTube Premium,Poland,23.99,PLN,Monthly,$6.12,"$35,651.18",Video Streaming
+,Apple music,Poland,29.99,PLN,Family,$7.65,"$35,651.18",Music Streaming
+,Netflix,South Korea,"12,000.00",KRW,Standard,$9.93,"$46,451.61",Video Streaming
+,Netflix,Malaysia,42.00,MYR,Standard,$9.83,"$34,567.07",Video Streaming
+,Netflix,Australia,13.99,AUD,Standard,$9.77,"$54,799.04",Video Streaming
+,Apple music,North Macedonia,5.99,USD,Individual,$5.99,"$17,377.64",Music Streaming
+,Apple music,Qatar,27.99,QAR,Family,$7.66,"$138,909.78",Music Streaming
+,Xbox,Slovakia,45.49,EUR,Sekiro,$51.54,"$38,321.54",Gaming
+,Playstation,Slovakia,49.99,EUR,Spider-Man,$56.64,"$38,321.54",Gaming
+,Nintendo,Slovakia,59.99,EUR,Animal crossing,$67.97,"$38,321.54",Gaming
+,Nintendo,Slovakia,59.99,EUR,Mario,$67.97,"$38,321.54",Gaming
+,Nintendo,Slovakia,69.99,EUR,Zelda,$79.31,"$38,321.54",Gaming
+,Steam,Slovenia,14.99,EUR,PUBG,$16.99,"$40,343.95",Gaming
+,Steam,Slovenia,29.99,EUR,GTA V,$33.98,"$40,343.95",Gaming
+,Steam,Slovenia,59.99,EUR,Doom Eternal,$67.97,"$40,343.95",Gaming
+,Nintendo,Slovenia,59.99,EUR,Animal crossing,$67.97,"$40,343.95",Gaming
+,YouTube Premium,Malaysia,17.90,MYR,Monthly,$4.19,"$34,567.07",Video Streaming
+,Netflix,Sweden,89.00,SEK,Basic,$9.69,"$55,988.99",Video Streaming
+,Spotify,Guatemala,5.99,USD,Individual,$5.99,"$9,009.03",Music Streaming
+,Netflix,Norway,89.00,NOK,Basic,$9.57,"$79,638.07",Video Streaming
+,Netflix,Israel,32.90,NIS,Basic,$9.50,"$40,336.84",Video Streaming
+,Nintendo,Slovenia,59.99,EUR,Mario,$67.97,"$40,343.95",Gaming
+,Nintendo,Slovenia,69.99,EUR,Zelda,$79.31,"$40,343.95",Gaming
+,Playstation,Slovenia,199.00,SEK,God Of War,$21.67,"$40,343.95",Gaming
+,Playstation,Slovenia,199.00,SEK,Bloodborne,$21.67,"$40,343.95",Gaming
+,Playstation,Slovenia,499.00,SEK,Spider-Man,$54.33,"$40,343.95",Gaming
+,Steam,South Africa,159.50,ZAR,PUBG,$9.47,"$13,965.17",Gaming
+,Apple music,Armenia,5.99,USD,Individual,$5.99,"$11,844.65",Music Streaming
+,YouTube Premium,Romania,26.00,RON,Monthly,$6.09,"$29,554.75",Video Streaming
+,Apple music,Romania,29.99,RON,Family,$7.02,"$29,554.75",Music Streaming
+,Steam,South Africa,499.00,ZAR,GTA V,$29.63,"$13,965.17",Gaming
+,Steam,South Africa,879.00,ZAR,Doom Eternal,$52.20,"$13,965.17",Gaming
+,Nintendo,South Africa,"1,079.00",ZAR,Zelda,$64.07,"$13,965.17",Gaming
+,Twitch Prime,Brazil,9.90,BRL,Monthly,$1.94,"$17,016.32",Video Streaming
+,Amazon Prime,Honduras,5.99,USD,Monthly,$5.99,"$5,599.65",Video Streaming
+,YouTube Premium,Serbia,749.00,RSD,Monthly,$7.17,"$19,767.47",Video Streaming
+,Playstation,South Africa,329.00,ZAR,God Of War,$19.54,"$13,965.17",Gaming
+,Playstation,South Africa,329.00,ZAR,Bloodborne,$19.54,"$13,965.17",Gaming
+,Xbox,South Africa,499.50,ZAR,Red Dead,$29.66,"$13,965.17",Gaming
+,Apple music,Israel,19.90,ILS,Individual,$5.76,"$40,336.84",Music Streaming
+,YouTube Premium,Russia,199.00,RUB,Monthly,$2.90,"$30,819.56",Video Streaming
+,Apple music,Russia,269.00,RUB,Family,$3.92,"$30,819.56",Music Streaming
+,Xbox,South Africa,499.50,ZAR,Forza Horizon,$29.66,"$13,965.17",Gaming
+,Xbox,South Africa,584.35,ZAR,Sekiro,$34.70,"$13,965.17",Gaming
+,Playstation,South Africa,779.00,ZAR,Spider-Man,$46.26,"$13,965.17",Gaming
+,Nintendo,South Africa,929.00,ZAR,Animal crossing,$55.16,"$13,965.17",Gaming
+,Nintendo,South Africa,929.00,ZAR,Mario,$55.16,"$13,965.17",Gaming
+,Steam,South Korea,"16,000.00",KRW,PUBG,$13.24,"$46,451.61",Gaming
+,Steam,South Korea,"33,000.00",KRW,GTA V,$27.31,"$46,451.61",Gaming
+,Steam,South Korea,"67,000.00",KRW,Doom Eternal,$55.44,"$46,451.61",Gaming
+,Apple music,Montenegro,4.99,EUR,Individual,$5.65,"$20,976.74",Music Streaming
+,Netflix,Vietnam,"220,000.00",VND,Standard,$9.50,"$8,677.54",Video Streaming
+,Apple music,Saudi Arabia,29.99,SAR,Family,$7.99,"$56,912.37",Music Streaming
+,Xbox,South Korea,"29,950.00",KRW,Forza Horizon,$24.78,"$46,451.61",Gaming
+,Netflix,Philippines,460.00,PHP,Standard,$9.23,"$10,094.39",Video Streaming
+,Netflix,Colombia,"32,900.00",COP,Premium,$9.14,"$16,264.97",Video Streaming
+,Xbox,South Korea,"33,200.00",KRW,Red Dead,$27.47,"$46,451.61",Gaming
+,Xbox,South Korea,"38,935.00",KRW,Sekiro,$32.22,"$46,451.61",Gaming
+,Steam,Spain,14.99,EUR,PUBG,$16.99,"$43,007.50",Gaming
+,Steam,Spain,29.99,EUR,GTA V,$33.98,"$43,007.50",Gaming
+,Steam,Spain,59.99,EUR,Doom Eternal,$67.97,"$43,007.50",Gaming
+,Playstation,Spain,19.99,EUR,God Of War,$22.65,"$43,007.50",Gaming
+,Playstation,Spain,19.99,EUR,Bloodborne,$22.65,"$43,007.50",Gaming
+,Xbox,Spain,32.49,EUR,Forza Horizon,$36.81,"$43,007.50",Gaming
+,Xbox,Spain,34.99,EUR,Red Dead,$39.65,"$43,007.50",Gaming
+,Xbox,Spain,45.49,EUR,Sekiro,$51.54,"$43,007.50",Gaming
+,Playstation,Spain,49.99,EUR,Spider-Man,$56.64,"$43,007.50",Gaming
+,Nintendo,Spain,59.99,EUR,Animal crossing,$67.97,"$43,007.50",Gaming
+,Netflix,Taiwan,270.00,TWD,Basic,$9.08,"$57,214.16",Video Streaming
+,YouTube Premium,Sweden,119.00,SEK,Monthly,$12.96,"$55,988.99",Video Streaming
+,Netflix,Portugal,7.99,EUR,Basic,$9.05,"$34,935.82",Video Streaming
+,Apple music,Sweden,149.00,SEK,Family,$16.22,"$55,988.99",Music Streaming
+,Netflix,Finland,7.99,EUR,Basic,$9.05,"$49,547.88",Video Streaming
+,Spotify,El Salvador,5.99,USD,Individual,$5.99,"$8,593.45",Music Streaming
+,Apple music,United Arab Emirates,19.99,AED,Individual,$5.46,"$70,441.55",Music Streaming
+,Netflix,Spain,7.99,EUR,Basic,$9.05,"$43,007.50",Video Streaming
+,YouTube Premium,Singapore,11.98,SGD,Monthly,$8.60,"$105,689.46",Video Streaming
+,Netflix,Italy,7.99,EUR,Basic,$9.05,"$41,582.19",Video Streaming
+,Apple music,Singapore,14.98,SGD,Family,$10.75,"$105,689.46",Music Streaming
+,Netflix,Bolivia,7.99,EUR,Basic,$9.05,"$8,524.76",Video Streaming
+,Twitch Prime,Singapore,2.99,SGD,Monthly,$2.15,"$105,689.46",Video Streaming
+,Nintendo,Spain,59.99,EUR,Mario,$67.97,"$43,007.50",Gaming
+,Nintendo,Spain,69.99,EUR,Zelda,$79.31,"$43,007.50",Gaming
+,Playstation,Sweden,199.00,SEK,God Of War,$21.67,"$55,988.99",Gaming
+,Amazon Prime,Belize,5.99,USD,Monthly,$5.99,"$8,790.56",Video Streaming
+,Spotify,Ecuador,5.99,USD,Individual,$5.99,"$11,866.24",Music Streaming
+,Apple music,Saudi Arabia,19.99,SAR,Individual,$5.33,"$56,912.37",Music Streaming
+,Playstation,Sweden,199.00,SEK,Bloodborne,$21.67,"$55,988.99",Gaming
+,Xbox,Sweden,324.50,SEK,Forza Horizon,$35.33,"$55,988.99",Gaming
+,Apple music,Bulgaria,8.99,BGN,Individual,$5.21,"$26,034.33",Music Streaming
+,YouTube Premium,Thailand,129.00,THB,Monthly,$4.10,"$21,360.92",Video Streaming
+,Apple music,Thailand,199.00,THB,Family,$6.32,"$21,360.92",Music Streaming
+,Netflix,Netherlands,7.99,EUR,Basic,$9.05,"$60,299.14",Video Streaming
+,Netflix,Slovenia,7.99,EUR,Basic,$9.05,"$40,343.95",Video Streaming
+,Netflix,Austria,7.99,EUR,Basic,$9.05,"$55,171.99",Video Streaming
+,Spotify,Costa Rica,5.99,USD,Individual,$5.99,"$18,650.95",Music Streaming
+,Xbox,Sweden,374.50,SEK,Red Dead,$40.78,"$55,988.99",Gaming
+,Apple music,Poland,19.99,PLN,Individual,$5.10,"$35,651.18",Music Streaming
+,Xbox,Sweden,441.35,SEK,Sekiro,$48.06,"$55,988.99",Gaming
+,YouTube Premium,Turkey,16.99,TRY,Monthly,$2.51,"$29,326.50",Video Streaming
+,Apple music,Turkey,20.99,TRY,Family,$3.10,"$29,326.50",Music Streaming
+,Playstation,Sweden,499.00,SEK,Spider-Man,$54.33,"$55,988.99",Gaming
+,Nintendo,Sweden,599.00,SEK,Animal crossing,$65.22,"$55,988.99",Gaming
+,Nintendo,Sweden,599.00,SEK,Mario,$65.22,"$55,988.99",Gaming
+,Nintendo,Sweden,689.00,SEK,Zelda,$75.02,"$55,988.99",Gaming
+,Steam,Switzerland,15.99,CHF,PUBG,$16.68,"$67,557.70",Gaming
+,Spotify,Bolivia,5.99,USD,Individual,$5.99,"$8,524.76",Music Streaming
+,Apple music,Taiwan,150.00,TWD,Individual,$5.04,"$57,214.16",Music Streaming
+,YouTube Premium,Taiwan,179.00,TWD,Monthly,$6.02,"$57,214.16",Video Streaming
+,Apple music,Taiwan,240.00,TWD,Family,$8.07,"$57,214.16",Music Streaming
+,Netflix,France,7.99,EUR,Basic,$9.05,"$48,640.05",Video Streaming
+,Netflix,Germany,7.99,EUR,Basic,$9.05,"$55,306.21",Video Streaming
+,Netflix,Guatemala,7.99,EUR,Basic,$9.05,"$9,009.03",Video Streaming
+,Playstation,Switzerland,22.90,CHF,God Of War,$23.89,"$67,557.70",Gaming
+,Playstation,Switzerland,22.90,CHF,Bloodborne,$23.89,"$67,557.70",Gaming
+,YouTube Premium,Ukraine,99.00,UAH,Monthly,$3.72,"$10,310.06",Video Streaming
+,Netflix,Belgium,7.99,EUR,Basic,$9.05,"$50,904.69",Video Streaming
+,Netflix,Estonia,7.99,EUR,Basic,$9.05,"$37,605.62",Video Streaming
+,Netflix,Greece,7.99,EUR,Basic,$9.05,"$31,616.27",Video Streaming
+,Netflix,Luxembourg,7.99,EUR,Basic,$9.05,"$112,044.59",Video Streaming
+,Netflix,Latvia,7.99,EUR,Basic,$9.05,"$32,986.51",Video Streaming
+,Netflix,Ukraine,7.99,EUR,Basic,$9.05,"$10,310.06",Video Streaming
+,Netflix,Croatia,7.99,EUR,Basic,$9.05,"$29,207.13",Video Streaming
+,Netflix,Romania,7.99,EUR,Basic,$9.05,"$29,554.75",Video Streaming
+,Netflix,Iceland,7.99,EUR,Basic,$9.05,"$56,973.68",Video Streaming
+,Netflix,Lithuania,7.99,EUR,Basic,$9.05,"$38,751.02",Video Streaming
+,Netflix,Russia,7.99,EUR,Basic,$9.05,"$30,819.56",Video Streaming
+,Netflix,Malta,7.99,EUR,Basic,$9.05,"$49,589.46",Video Streaming
+,Netflix,Slovakia,7.99,EUR,Basic,$9.05,"$38,321.54",Video Streaming
+,Netflix,Ireland,7.99,EUR,Basic,$9.05,"$86,988.20",Video Streaming
+,Netflix,Turkey,8.99,USD,Basic,$8.99,"$29,326.50",Video Streaming
+,YouTube Premium,United States,11.99,USD,Monthly,$11.99,"$67,426.84",Video Streaming
+,Netflix,Argentina,8.99,USD,Basic,$8.99,"$19,970.52",Video Streaming
+,Netflix,Costa Rica,8.99,USD,Basic,$8.99,"$18,650.95",Video Streaming
+,Netflix,Uruguay,8.99,USD,Basic,$8.99,"$24,515.57",Video Streaming
+,Amazon Prime,Jamaica,5.99,USD,Monthly,$5.99,"$9,931.56",Video Streaming
+,Twitch Prime,United States,12.99,USD,Monthly,$12.99,"$67,426.84",Video Streaming
+,Netflix,United States,8.99,USD,Basic,$8.99,"$67,426.84",Video Streaming
+,Netflix,Brazil,45.90,BRL,Premium,$8.99,"$17,016.32",Video Streaming
+,Netflix,Thailand,280.00,THB,Basic,$8.89,"$21,360.92",Video Streaming
+,Netflix,Poland,34.00,PLN,Basic,$8.67,"$35,651.18",Video Streaming
+,Apple music,United States,14.99,USD,Family,$14.99,"$67,426.84",Music Streaming
+,Apple music,Anguilla*,14.99,USD,Family,$14.99,"$12,200.00",Music Streaming
+,Apple music,Montserrat*,14.99,USD,Family,$14.99,"$34,000.00",Music Streaming
+,Apple music,Antigua And Barbuda,14.99,USD,Family,$14.99,"$30,593.26",Music Streaming
+,Apple music,Costa Rica,14.99,USD,Family,$14.99,"$18,650.95",Music Streaming
+,Apple music,Nicaragua,14.99,USD,Family,$14.99,"$5,296.56",Music Streaming
+,Apple music,Argentina,14.99,USD,Family,$14.99,"$19,970.52",Music Streaming
+,Apple music,Dominica,14.99,USD,Family,$14.99,"$12,850.78",Music Streaming
+,Apple music,Panama,14.99,USD,Family,$14.99,"$28,456.01",Music Streaming
+,Apple music,Bahamas*,14.99,USD,Family,$14.99,"$28,705.28",Music Streaming
+,Apple music,Dominican Republic,14.99,USD,Family,$14.99,"$20,625.37",Music Streaming
+,Apple music,Paraguay,14.99,USD,Family,$14.99,"$14,212.92",Music Streaming
+,Apple music,Barbados,14.99,USD,Family,$14.99,"$19,363.58",Music Streaming
+,Apple music,Peru,14.99,USD,Family,$14.99,"$15,398.62",Music Streaming
+,Netflix,India,649.00,INR,Standard,$8.59,"$9,026.87",Video Streaming
+,Netflix,Czech Republic,199.00,CZK,Basic,$8.48,"$40,584.79",Video Streaming
+,Netflix,South Africa,139.00,ZAR,Standard,$8.25,"$13,965.17",Video Streaming
+,Xbox,Switzerland,34.50,CHF,Forza Horizon,$35.99,"$67,557.70",Gaming
+,Steam,Switzerland,34.90,CHF,GTA V,$36.41,"$67,557.70",Gaming
+,Xbox,Switzerland,40.00,CHF,Red Dead,$41.73,"$67,557.70",Gaming
+,Xbox,Switzerland,48.75,CHF,Sekiro,$50.86,"$67,557.70",Gaming
+,Playstation,Switzerland,59.90,CHF,Spider-Man,$62.49,"$67,557.70",Gaming
+,Steam,Switzerland,71.90,CHF,Doom Eternal,$75.01,"$67,557.70",Gaming
+,Nintendo,Switzerland,77.90,CHF,Animal crossing,$81.27,"$67,557.70",Gaming
+,Nintendo,Switzerland,77.90,CHF,Mario,$81.27,"$67,557.70",Gaming
+,Nintendo,Switzerland,89.00,CHF,Zelda,$92.86,"$67,557.70",Gaming
+,Steam,Taiwan,"1,799.00",TWD,Doom Eternal,$60.50,"$57,214.16",Gaming
+,Steam,Taiwan,399.00,TWD,PUBG,$13.42,"$57,214.16",Gaming
+,Steam,Taiwan,990.00,TWD,GTA V,$33.29,"$57,214.16",Gaming
+,Xbox,Taiwan,"1,043.00",TWD,Sekiro,$35.08,"$57,214.16",Gaming
+,Xbox,Taiwan,849.00,TWD,Forza Horizon,$28.55,"$57,214.16",Gaming
+,Apple music,Moldova,4.99,USD,Individual,$4.99,"$8,160.54",Music Streaming
+,Apple music,Tunisia,4.99,USD,Individual,$4.99,"$13,092.76",Music Streaming
+,Apple music,Morocco,4.99,USD,Individual,$4.99,"$9,666.65",Music Streaming
+,Apple music,Jordan,4.99,USD,Individual,$4.99,"$9,939.37",Music Streaming
+,Apple music,Kuwait,4.99,USD,Individual,$4.99,"$67,890.98",Music Streaming
+,Apple music,Bahrain,4.99,USD,Individual,$4.99,"$51,991.13",Music Streaming
+,Xbox,Taiwan,906.00,TWD,Red Dead,$30.47,"$57,214.16",Gaming
+,Steam,Tajikistan,8.99,USD,PUBG,$8.99,"$3,751.15",Gaming
+,Steam,Tajikistan,24.99,USD,GTA V,$24.99,"$3,751.15",Gaming
+,Steam,Tajikistan,29.99,USD,Doom Eternal,$29.99,"$3,751.15",Gaming
+,Steam,Thailand,14.99,USD,PUBG,$14.99,"$21,360.92",Gaming
+,Steam,Thailand,"1,970.00",THB,Doom Eternal,$62.57,"$21,360.92",Gaming
+,Steam,Thailand,279.50,THB,PUBG,$8.88,"$21,360.92",Gaming
+,Steam,Thailand,699.00,THB,GTA V,$22.20,"$21,360.92",Gaming
+,Steam,Thailand,19.99,USD,GTA V,$19.99,"$21,360.92",Gaming
+,Steam,Thailand,59.99,USD,Doom Eternal,$59.99,"$21,360.92",Gaming
+,Steam,Turkey,169.00,TRY,GTA V,$24.95,"$29,326.50",Gaming
+,Steam,Turkey,199.00,TRY,Doom Eternal,$29.38,"$29,326.50",Gaming
+,Steam,Turkey,43.50,TRY,PUBG,$6.42,"$29,326.50",Gaming
+,Playstation,Turkey,119.00,TRY,God Of War,$17.57,"$29,326.50",Gaming
+,Xbox,Turkey,130.00,TRY,Forza Horizon,$19.20,"$29,326.50",Gaming
+,Apple music,Oman,4.99,USD,Individual,$4.99,"$48,593.47",Music Streaming
+,Apple music,Qatar,17.99,QAR,Individual,$4.93,"$138,909.78",Music Streaming
+,Apple music,Hungary,"1,490.00",HUF,Individual,$4.90,"$35,941.19",Music Streaming
+,Apple music,Romania,19.99,RON,Individual,$4.68,"$29,554.75",Music Streaming
+,Apple music,Mexico,99.00,MXN,Individual,$4.56,"$21,362.85",Music Streaming
+,Apple music,Chile,"3,400.00",CPL,Individual,$4.44,"$27,150.38",Music Streaming
+,Apple music,Thailand,129.00,THB,Individual,$4.10,"$21,360.92",Music Streaming
+,Apple music,Niger,4.99,USD,Family,$4.99,"$1,151.86",Music Streaming
+,Apple music,Senegal,4.99,USD,Family,$4.99,"$4,078.55",Music Streaming
+,Apple music,Madagascar,4.99,USD,Family,$4.99,"$1,776.18",Music Streaming
+,Apple music,Mali,4.99,USD,Family,$4.99,"$2,568.95",Music Streaming
+,Apple music,Cote D'Ivoire,4.99,USD,Family,$4.99,"$4,753.58",Music Streaming
+,Apple music,Mozambique,4.99,USD,Family,$4.99,"$1,372.42",Music Streaming
+,Xbox,Turkey,283.00,TRY,Red Dead,$41.79,"$29,326.50",Gaming
+,Playstation,Turkey,309.00,TRY,Spider-Man,$45.63,"$29,326.50",Gaming
+,Xbox,Turkey,367.90,TRY,Sekiro,$54.32,"$29,326.50",Gaming
+,Amazon Prime,Dominican Republic,5.99,USD,Monthly,$5.99,"$20,625.37",Video Streaming
+,Amazon Prime,Trinidad And Tobago,5.99,USD,Monthly,$5.99,"$33,713.04",Video Streaming
+,Amazon Prime,Bolivia,5.99,USD,Monthly,$5.99,"$8,524.76",Video Streaming
+,Amazon Prime,Ecuador,5.99,USD,Monthly,$5.99,"$11,866.24",Video Streaming
+,Amazon Prime,Uruguay,5.99,USD,Monthly,$5.99,"$24,515.57",Video Streaming
+,Amazon Prime,El Salvador,5.99,USD,Monthly,$5.99,"$8,593.45",Video Streaming
+,Amazon Prime,Micronesia,5.99,USD,Monthly,$5.99,"$3,657.32",Video Streaming
+,Amazon Prime,Venezuela,5.99,USD,Monthly,$5.99,"$5,699.00",Video Streaming
+,Amazon Prime,Panama,5.99,USD,Monthly,$5.99,"$28,456.01",Video Streaming
+,Amazon Prime,Marshall Islands,5.99,USD,Monthly,$5.99,"$3,972.22",Video Streaming
+,Amazon Prime,Bangladesh,5.99,USD,Monthly,$5.99,"$5,453.01",Video Streaming
+,Amazon Prime,Indonesia,5.99,USD,Monthly,$5.99,"$14,840.76",Video Streaming
+,Amazon Prime,Taiwan,5.99,USD,Monthly,$5.99,"$57,214.16",Video Streaming
+,Amazon Prime,Kazakhstan,5.99,USD,Monthly,$5.99,"$30,178.19",Video Streaming
+,Amazon Prime,Palau,5.99,USD,Monthly,$5.99,"$16,854.87",Video Streaming
+,Amazon Prime,Thailand,5.99,USD,Monthly,$5.99,"$21,360.92",Video Streaming
+,Amazon Prime,Fiji,5.99,USD,Monthly,$5.99,"$12,689.45",Video Streaming
+,Amazon Prime,Macau*,5.99,USD,Monthly,$5.99,"$110,000.00",Video Streaming
+,Amazon Prime,Philippines,5.99,USD,Monthly,$5.99,"$10,094.39",Video Streaming
+,Amazon Prime,Vietnam,5.99,USD,Monthly,$5.99,"$8,677.54",Video Streaming
+,Amazon Prime,Hong Kong,5.99,USD,Monthly,$5.99,"$66,527.92",Video Streaming
+,Amazon Prime,Malaysia,5.99,USD,Monthly,$5.99,"$34,567.07",Video Streaming
+,Amazon Prime,Canada,7.99,CAD,Monthly,$5.94,"$52,144.45",Video Streaming
+,Amazon Prime,Italy,4.99,EUR,Monthly,$5.65,"$41,582.19",Video Streaming
+,Amazon Prime,Spain,4.99,EUR,Monthly,$5.65,"$43,007.50",Video Streaming
+,Amazon Prime,Australia,6.99,AUD,Monthly,$4.88,"$54,799.04",Video Streaming
+,Amazon Prime,Mexico,99.00,MXN,Monthly,$4.56,"$21,362.85",Video Streaming
+,Amazon Prime,Chile,"3,500.00",CLP,Monthly,$4.52,"$27,150.38",Video Streaming
+,Amazon Prime,Japan,400.00,JPY,Monthly,$3.66,"$46,827.35",Video Streaming
+,Amazon Prime,Argentina,219.00,ARS,Monthly,$3.18,"$19,970.52",Video Streaming
+,Amazon Prime,Brazil,14.90,BRL,Monthly,$2.92,"$17,016.32",Video Streaming
+,Twitch Prime,Algeria,5.99,USD,Monthly,$5.99,"$16,090.69",Video Streaming
+,Twitch Prime,Jordan,5.99,USD,Monthly,$5.99,"$9,939.37",Video Streaming
+,Twitch Prime,Nigeria,5.99,USD,Monthly,$5.99,"$6,171.68",Video Streaming
+,Twitch Prime,South Africa,5.99,USD,Monthly,$5.99,"$13,965.17",Video Streaming
+,Twitch Prime,Angola,5.99,USD,Monthly,$5.99,"$6,762.89",Video Streaming
+,Twitch Prime,Kenya,5.99,USD,Monthly,$5.99,"$4,078.18",Video Streaming
+,Twitch Prime,Oman,5.99,USD,Monthly,$5.99,"$48,593.47",Video Streaming
+,Twitch Prime,Tanzania,5.99,USD,Monthly,$5.99,"$3,561.69",Video Streaming
+,Twitch Prime,Bahrain,5.99,USD,Monthly,$5.99,"$51,991.13",Video Streaming
+,Twitch Prime,Kuwait,5.99,USD,Monthly,$5.99,"$67,890.98",Video Streaming
+,Twitch Prime,Pakistan,5.99,USD,Monthly,$5.99,"$6,016.06",Video Streaming
+,Twitch Prime,Tunisia,5.99,USD,Monthly,$5.99,"$13,092.76",Video Streaming
+,Twitch Prime,Botswana,5.99,USD,Monthly,$5.99,"$19,387.62",Video Streaming
+,Twitch Prime,Kyrgyzstan,5.99,USD,Monthly,$5.99,"$4,192.98",Video Streaming
+,Twitch Prime,Uganda,5.99,USD,Monthly,$5.99,"$2,752.79",Video Streaming
+,Twitch Prime,Cameroon,5.99,USD,Monthly,$5.99,"$4,099.37",Video Streaming
+,Twitch Prime,Mauritius,5.99,USD,Monthly,$5.99,"$26,460.58",Video Streaming
+,Twitch Prime,Qatar,5.99,USD,Monthly,$5.99,"$138,909.78",Video Streaming
+,Twitch Prime,Egypt,5.99,USD,Monthly,$5.99,"$14,800.34",Video Streaming
+,Twitch Prime,Mayotte*,5.99,USD,Monthly,$5.99,"$4,900.00",Video Streaming
+,Twitch Prime,Reunion*,5.99,USD,Monthly,$5.99,"$6,200.00",Video Streaming
+,Twitch Prime,Zimbabwe,5.99,USD,Monthly,$5.99,"$2,777.69",Video Streaming
+,Twitch Prime,Ghana,5.99,USD,Monthly,$5.99,"$7,343.04",Video Streaming
+,Twitch Prime,Morocco,5.99,USD,Monthly,$5.99,"$9,666.65",Video Streaming
+,Twitch Prime,Israel,5.99,USD,Monthly,$5.99,"$40,336.84",Video Streaming
+,Twitch Prime,Namibia,5.99,USD,Monthly,$5.99,"$11,450.63",Video Streaming
+,Twitch Prime,Senegal,5.99,USD,Monthly,$5.99,"$4,078.55",Video Streaming
+,Twitch Prime,Argentina,5.99,USD,Monthly,$5.99,"$19,970.52",Video Streaming
+,Twitch Prime,Cayman Islands*,5.99,USD,Monthly,$5.99,"$49,902.10",Video Streaming
+,Twitch Prime,Guadeloupe*,5.99,USD,Monthly,$5.99,"$7,900.00",Video Streaming
+,Twitch Prime,Paraguay,5.99,USD,Monthly,$5.99,"$14,212.92",Video Streaming
+,Twitch Prime,Aruba,5.99,USD,Monthly,$5.99,"$41,176.39",Video Streaming
+,Twitch Prime,Chile,5.99,USD,Monthly,$5.99,"$27,150.38",Video Streaming
+,Twitch Prime,Guatemala,5.99,USD,Monthly,$5.99,"$9,009.03",Video Streaming
+,Twitch Prime,Peru,5.99,USD,Monthly,$5.99,"$15,398.62",Video Streaming
+,Twitch Prime,Barbados,5.99,USD,Monthly,$5.99,"$19,363.58",Video Streaming
+,Twitch Prime,Colombia,5.99,USD,Monthly,$5.99,"$16,264.97",Video Streaming
+,Twitch Prime,Honduras,5.99,USD,Monthly,$5.99,"$5,599.65",Video Streaming
+,Twitch Prime,Saint Kitts And Nevis*,5.99,USD,Monthly,$5.99,"$26,531.00",Video Streaming
+,Twitch Prime,Belize,5.99,USD,Monthly,$5.99,"$8,790.56",Video Streaming
+,Twitch Prime,Jamaica,5.99,USD,Monthly,$5.99,"$9,931.56",Video Streaming
+,Twitch Prime,Saint Martin*,5.99,USD,Monthly,$5.99,"$19,300.00",Video Streaming
+,Twitch Prime,Bermuda*,5.99,USD,Monthly,$5.99,"$99,400.00",Video Streaming
+,Twitch Prime,Dominican Republic,5.99,USD,Monthly,$5.99,"$20,625.37",Video Streaming
+,Twitch Prime,Martinique*,5.99,USD,Monthly,$5.99,"$14,400.00",Video Streaming
+,Twitch Prime,Trinidad And Tobago,5.99,USD,Monthly,$5.99,"$33,713.04",Video Streaming
+,Twitch Prime,Bolivia,5.99,USD,Monthly,$5.99,"$8,524.76",Video Streaming
+,Twitch Prime,Ecuador,5.99,USD,Monthly,$5.99,"$11,866.24",Video Streaming
+,Twitch Prime,Uruguay,5.99,USD,Monthly,$5.99,"$24,515.57",Video Streaming
+,Twitch Prime,El Salvador,5.99,USD,Monthly,$5.99,"$8,593.45",Video Streaming
+,Twitch Prime,Micronesia,5.99,USD,Monthly,$5.99,"$3,657.32",Video Streaming
+,Twitch Prime,Venezuela,5.99,USD,Monthly,$5.99,"$5,699.00",Video Streaming
+,Twitch Prime,French Guiana*,5.99,USD,Monthly,$5.99,"$5,447.00",Video Streaming
+,Twitch Prime,Panama,5.99,USD,Monthly,$5.99,"$28,456.01",Video Streaming
+,Twitch Prime,Marshall Islands,5.99,USD,Monthly,$5.99,"$3,972.22",Video Streaming
+,Twitch Prime,South Korea,5.99,USD,Monthly,$5.99,"$46,451.61",Video Streaming
+,Twitch Prime,Bangladesh,5.99,USD,Monthly,$5.99,"$5,453.01",Video Streaming
+,Twitch Prime,Indonesia,5.99,USD,Monthly,$5.99,"$14,840.76",Video Streaming
+,Twitch Prime,New Caledonia*,5.99,USD,Monthly,$5.99,"$32,100.00",Video Streaming
+,Twitch Prime,Sri Lanka,5.99,USD,Monthly,$5.99,"$14,508.78",Video Streaming
+,Twitch Prime,Cambodia,5.99,USD,Monthly,$5.99,"$5,004.10",Video Streaming
+,Twitch Prime,New Zealand,5.99,USD,Monthly,$5.99,"$42,044.57",Video Streaming
+,Twitch Prime,Taiwan,5.99,USD,Monthly,$5.99,"$57,214.16",Video Streaming
+,Twitch Prime,Kazakhstan,5.99,USD,Monthly,$5.99,"$30,178.19",Video Streaming
+,Twitch Prime,Palau,5.99,USD,Monthly,$5.99,"$16,854.87",Video Streaming
+,Twitch Prime,Thailand,5.99,USD,Monthly,$5.99,"$21,360.92",Video Streaming
+,Twitch Prime,Fiji,5.99,USD,Monthly,$5.99,"$12,689.45",Video Streaming
+,Twitch Prime,Macau*,5.99,USD,Monthly,$5.99,"$110,000.00",Video Streaming
+,Twitch Prime,Philippines,5.99,USD,Monthly,$5.99,"$10,094.39",Video Streaming
+,Twitch Prime,Vietnam,5.99,USD,Monthly,$5.99,"$8,677.54",Video Streaming
+,Twitch Prime,Hong Kong,5.99,USD,Monthly,$5.99,"$66,527.92",Video Streaming
+,Twitch Prime,Malaysia,5.99,USD,Monthly,$5.99,"$34,567.07",Video Streaming
+,Twitch Prime,Albania,5.99,USD,Monthly,$5.99,"$14,866.44",Video Streaming
+,Twitch Prime,Estonia,5.99,USD,Monthly,$5.99,"$37,605.62",Video Streaming
+,Twitch Prime,Lithuania,5.99,USD,Monthly,$5.99,"$38,751.02",Video Streaming
+,Twitch Prime,Serbia,5.99,USD,Monthly,$5.99,"$19,767.47",Video Streaming
+,Twitch Prime,Andorra*,5.99,USD,Monthly,$5.99,"$49,900.00",Video Streaming
+,Twitch Prime,Finland,5.99,USD,Monthly,$5.99,"$49,547.88",Video Streaming
+,Twitch Prime,Luxembourg,5.99,USD,Monthly,$5.99,"$112,044.59",Video Streaming
+,Twitch Prime,Slovakia,5.99,USD,Monthly,$5.99,"$38,321.54",Video Streaming
+,Twitch Prime,Armenia,5.99,USD,Monthly,$5.99,"$11,844.65",Video Streaming
+,Twitch Prime,Malta,5.99,USD,Monthly,$5.99,"$49,589.46",Video Streaming
+,Twitch Prime,Slovenia,5.99,USD,Monthly,$5.99,"$40,343.95",Video Streaming
+,Twitch Prime,Monaco*,5.99,USD,Monthly,$5.99,"$115,700.00",Video Streaming
+,Twitch Prime,Belarus,5.99,USD,Monthly,$5.99,"$21,223.74",Video Streaming
+,Twitch Prime,Gibraltar*,5.99,USD,Monthly,$5.99,"$61,700.00",Video Streaming
+,Twitch Prime,Sweden,5.99,USD,Monthly,$5.99,"$55,988.99",Video Streaming
+,Twitch Prime,Greece,5.99,USD,Monthly,$5.99,"$31,616.27",Video Streaming
+,Twitch Prime,Norway,5.99,USD,Monthly,$5.99,"$79,638.07",Video Streaming
+,Twitch Prime,Switzerland,5.99,USD,Monthly,$5.99,"$67,557.70",Video Streaming
+,Twitch Prime,Bosnia And Herzegovina,5.99,USD,Monthly,$5.99,"$14,894.16",Video Streaming
+,Twitch Prime,Hungary,5.99,USD,Monthly,$5.99,"$35,941.19",Video Streaming
+,Twitch Prime,Poland,5.99,USD,Monthly,$5.99,"$35,651.18",Video Streaming
+,Twitch Prime,Turkey,5.99,USD,Monthly,$5.99,"$29,326.50",Video Streaming
+,Twitch Prime,Bulgaria,5.99,USD,Monthly,$5.99,"$26,034.33",Video Streaming
+,Twitch Prime,Iceland,5.99,USD,Monthly,$5.99,"$56,973.68",Video Streaming
+,Twitch Prime,Portugal,5.99,USD,Monthly,$5.99,"$34,935.82",Video Streaming
+,Twitch Prime,Ukraine,5.99,USD,Monthly,$5.99,"$10,310.06",Video Streaming
+,Twitch Prime,Croatia,5.99,USD,Monthly,$5.99,"$29,207.13",Video Streaming
+,Twitch Prime,Ireland,5.99,USD,Monthly,$5.99,"$86,988.20",Video Streaming
+,Twitch Prime,Romania,5.99,USD,Monthly,$5.99,"$29,554.75",Video Streaming
+,Twitch Prime,Cyprus,5.99,USD,Monthly,$5.99,"$42,956.46",Video Streaming
+,Twitch Prime,Russia,5.99,USD,Monthly,$5.99,"$30,819.56",Video Streaming
+,Twitch Prime,Vatican City*,5.99,USD,Monthly,$5.99,"$21,198.00",Video Streaming
+,Twitch Prime,Czech Republic,5.99,USD,Monthly,$5.99,"$40,584.79",Video Streaming
+,Twitch Prime,Latvia,5.99,USD,Monthly,$5.99,"$32,986.51",Video Streaming
+,Twitch Prime,Saint Barthélemy*,5.99,USD,Monthly,$5.99,"$9,000.00",Video Streaming
+,Twitch Prime,Denmark,5.99,USD,Monthly,$5.99,"$55,674.67",Video Streaming
+,Twitch Prime,Liechtenstein*,5.99,USD,Monthly,$5.99,"$139,100.00",Video Streaming
+,Twitch Prime,San Marino,5.99,USD,Monthly,$5.99,"$62,912.60",Video Streaming
+,Spotify,Hungary,4.99,EUR,Individual,$5.65,"$35,941.19",Music Streaming
+,Spotify,Peru,18.90,PEN,Individual,$5.51,"$15,398.62",Music Streaming
+,Spotify,Poland,19.99,PLN,Individual,$5.10,"$35,651.18",Music Streaming
+,Spotify,Taiwan,149.00,TWD,Individual,$5.01,"$57,214.16",Music Streaming
+,Spotify,Mexico,99.00,MXN,Individual,$4.56,"$21,362.85",Music Streaming
+,Spotify,Chile,"3,490.00",CPL,Individual,$4.55,"$27,150.38",Music Streaming
+,Spotify,Colombia,"14,900.00",COP,Individual,$4.14,"$16,264.97",Music Streaming
+,Spotify,South Africa,59.99,ZAR,Individual,$3.56,"$13,965.17",Music Streaming
+,Spotify,Brazil,16.90,BRL,Individual,$3.31,"$17,016.32",Music Streaming
+,Spotify,Turkey,17.99,TRY,Individual,$2.66,"$29,326.50",Music Streaming
+,Apple music,Colombia,"12,900.00",COP,Individual,$3.58,"$16,264.97",Music Streaming
+,Apple music,South Africa,59.99,ZAR,Individual,$3.56,"$13,965.17",Music Streaming
+,Playstation,Turkey,84.00,TRY,Bloodborne,$12.40,"$29,326.50",Gaming
+,Steam,Ukraine,236.00,UAH,PUBG,$8.87,"$10,310.06",Gaming
+,Steam,Ukraine,629.00,UAH,GTA V,$23.65,"$10,310.06",Gaming
+,Apple music,Indonesia,"49,000.00",IDR,Individual,$3.52,"$14,840.76",Music Streaming
+,Steam,Ukraine,800.00,UAH,Doom Eternal,$30.08,"$10,310.06",Gaming
+,YouTube Premium,Guatemala,7.19,USD,Monthly,$7.19,"$9,009.03",Video Streaming
+,YouTube Premium,Panama,7.19,USD,Monthly,$7.19,"$28,456.01",Video Streaming
+,YouTube Premium,Uruguay,7.19,USD,Monthly,$7.19,"$24,515.57",Video Streaming
+,Netflix,Hungary,"2,490.00",HUF,Basic,$8.19,"$35,941.19",Video Streaming
+,Netflix,Hong Kong,63.00,HKD,Basic,$8.13,"$66,527.92",Video Streaming
+,Netflix,Iran*,7.99,USD,Basic,$7.99,"$19,098.00",Video Streaming
+,Netflix,Egypt,7.99,USD,Basic,$7.99,"$14,800.34",Video Streaming
+,Netflix,Qatar,7.99,USD,Basic,$7.99,"$138,909.78",Video Streaming
+,Netflix,Iraq,7.99,USD,Basic,$7.99,"$18,754.87",Video Streaming
+,Netflix,Algeria,7.99,USD,Basic,$7.99,"$16,090.69",Video Streaming
+,Netflix,Jordan,7.99,USD,Basic,$7.99,"$9,939.37",Video Streaming
+,Netflix,Lebanon,7.99,USD,Basic,$7.99,"$15,598.81",Video Streaming
+,Netflix,Kuwait,7.99,USD,Basic,$7.99,"$67,890.98",Video Streaming
+,Netflix,Morocco,7.99,USD,Basic,$7.99,"$9,666.65",Video Streaming
+,Netflix,Tunisia,7.99,USD,Basic,$7.99,"$13,092.76",Video Streaming
+,Netflix,Bahrain,7.99,USD,Basic,$7.99,"$51,991.13",Video Streaming
+,Netflix,Nigeria,7.99,USD,Basic,$7.99,"$6,171.68",Video Streaming
+,Netflix,Zambia,7.99,USD,Basic,$7.99,"$4,174.26",Video Streaming
+,Netflix,Venezuela,7.99,USD,Basic,$7.99,"$5,699.00",Video Streaming
+,Netflix,Kenya,7.99,USD,Basic,$7.99,"$4,078.18",Video Streaming
+,Netflix,Zimbabwe,7.99,USD,Basic,$7.99,"$2,777.69",Video Streaming
+,Spotify,Philippines,129.00,PHP,Individual,$2.59,"$10,094.39",Music Streaming
+,Apple music,Moldova,7.99,USD,Family,$7.99,"$8,160.54",Music Streaming
+,Apple music,Tunisia,7.99,USD,Family,$7.99,"$13,092.76",Music Streaming
+,Apple music,Morocco,7.99,USD,Family,$7.99,"$9,666.65",Music Streaming
+,Apple music,Jordan,7.99,USD,Family,$7.99,"$9,939.37",Music Streaming
+,Apple music,Kuwait,7.99,USD,Family,$7.99,"$67,890.98",Music Streaming
+,Apple music,Bahrain,7.99,USD,Family,$7.99,"$51,991.13",Music Streaming
+,Apple music,Oman,7.99,USD,Family,$7.99,"$48,593.47",Music Streaming
+,YouTube Premium,Bosnia And Herzegovina,8.49,USD,Monthly,$8.49,"$14,894.16",Video Streaming
+,YouTube Premium,North Macedonia,8.49,USD,Monthly,$8.49,"$17,377.64",Video Streaming
+,Netflix,Nepal,7.99,USD,Basic,$7.99,"$3,549.85",Video Streaming
+,Netflix,Bangladesh,7.99,USD,Basic,$7.99,"$5,453.01",Video Streaming
+,Netflix,United Arab Emirates,29.00,AED,Basic,$7.92,"$70,441.55",Video Streaming
+,Apple music,North Macedonia,8.99,USD,Family,$8.99,"$17,377.64",Music Streaming
+,Apple music,Armenia,8.99,USD,Family,$8.99,"$11,844.65",Music Streaming
+,Netflix,Singapore,10.98,SGD,Basic,$7.88,"$105,689.46",Video Streaming
+,Netflix,South Korea,"9,500.00",KRW,Basic,$7.86,"$46,451.61",Video Streaming
+,Netflix,Indonesia,"109,000.00",IDR,Basic,$7.83,"$14,840.76",Video Streaming
+,Netflix,Chile,"5,990.00",CPL,Standard,$7.82,"$27,150.38",Video Streaming
+,Netflix,New Zealand,11.99,NZD,Basic,$7.79,"$42,044.57",Video Streaming
+,Netflix,Mexico,169.00,MXN,Standard,$7.78,"$21,362.85",Video Streaming
+,Netflix,Vietnam,"180,000.00",VND,Basic,$7.77,"$8,677.54",Video Streaming
+,Netflix,Saudi Arabia,29.00,SAR,Basic,$7.73,"$56,912.37",Video Streaming
+,Netflix,Malaysia,33.00,MYR,Basic,$7.72,"$34,567.07",Video Streaming
+,Netflix,United Kingdom,5.99,GBP,Basic,$7.58,"$48,168.87",Video Streaming
+,Netflix,Canada,9.99,CAD,Basic,$7.43,"$52,144.45",Video Streaming
+,Netflix,Philippines,370.00,PHP,Basic,$7.42,"$10,094.39",Video Streaming
+,Netflix,Japan,800.00,JPY,Basic,$7.32,"$46,827.35",Video Streaming
+,Netflix,Peru,24.90,PEN,Basic,$7.26,"$15,398.62",Video Streaming
+,Netflix,Australia,9.99,AUD,Basic,$6.98,"$54,799.04",Video Streaming
+,Netflix,Colombia,"24,900.00",COP,Standard,$6.92,"$16,264.97",Video Streaming
+,Netflix,India,499.00,INR,Basic,$6.61,"$9,026.87",Video Streaming
+,Spotify,Argentina,139.00,ARS,Individual,$2.02,"$19,970.52",Music Streaming
+,Apple music,Malaysia,14.90,MYR,Individual,$3.49,"$34,567.07",Music Streaming
+,Apple music,Brazil,16.19,BRL,Individual,$3.17,"$17,016.32",Music Streaming
+,Apple music,Egypt,49.99,EGP,Individual,$3.08,"$14,800.34",Music Streaming
+,Apple music,Niger,2.99,USD,Individual,$2.99,"$1,151.86",Music Streaming
+,Apple music,Senegal,2.99,USD,Individual,$2.99,"$4,078.55",Music Streaming
+,Apple music,Madagascar,2.99,USD,Individual,$2.99,"$1,776.18",Music Streaming
+,Apple music,Mali,2.99,USD,Individual,$2.99,"$2,568.95",Music Streaming
+,Apple music,Cote D'Ivoire,2.99,USD,Individual,$2.99,"$4,753.58",Music Streaming
+,Apple music,Mozambique,2.99,USD,Individual,$2.99,"$1,372.42",Music Streaming
+,Apple music,Philippines,129.00,PHP,Individual,$2.59,"$10,094.39",Music Streaming
+,Apple music,Vietnam,"59,000.00",VND,Individual,$2.55,"$8,677.54",Music Streaming
+,Apple music,Nigeria,900.00,NGN,Individual,$2.49,"$6,171.68",Music Streaming
+,Apple music,Russia,169.00,RUB,Individual,$2.46,"$30,819.56",Music Streaming
+,Apple music,Turkey,13.99,TRY,Individual,$2.07,"$29,326.50",Music Streaming
+,Netflix,Brazil,32.90,BRL,Standard,$6.44,"$17,016.32",Video Streaming
+,Netflix,Chile,"4,590.00",CPL,Basic,$5.99,"$27,150.38",Video Streaming
+,Netflix,Mexico,129.00,MXN,Basic,$5.94,"$21,362.85",Video Streaming
+,Apple music,China,10.00,CNY,Individual,$1.41,"$20,984.28",Music Streaming
+,Apple music,Vietnam,"89,000.00",VND,Family,$3.84,"$8,677.54",Music Streaming
+,Amazon Prime,India,129.00,INR,Monthly,$1.71,"$9,026.87",Video Streaming
+,Steam,United Arab Emirates,259.00,AED,Doom Eternal,$70.73,"$70,441.55",Gaming
+,Netflix,South Africa,99.00,ZAR,Basic,$5.88,"$13,965.17",Video Streaming
+,Netflix,Colombia,"16,900.00",COP,Basic,$4.70,"$16,264.97",Video Streaming
+,Steam,United Arab Emirates,60.00,AED,PUBG,$16.38,"$70,441.55",Gaming
+,Playstation,United Arab Emirates,17.99,USD,God Of War,$17.99,"$70,441.55",Gaming
+,Playstation,United Arab Emirates,17.99,USD,Bloodborne,$17.99,"$70,441.55",Gaming
+,Xbox,United Arab Emirates,31.49,USD,Red Dead,$31.49,"$70,441.55",Gaming
+,Xbox,United Arab Emirates,33.99,USD,Forza Horizon,$33.99,"$70,441.55",Gaming
+,Spotify,India,119.00,INR,Individual,$1.58,"$9,026.87",Music Streaming
+,Apple music,India,99.00,INR,Individual,$1.31,"$9,026.87",Music Streaming
+,YouTube Premium,South Africa,71.99,ZAR,Monthly,$4.27,"$13,965.17",Video Streaming
+,Xbox,United Arab Emirates,40.94,USD,Sekiro,$40.94,"$70,441.55",Gaming
+,Apple music,South Africa,89.99,ZAR,Family,$5.34,"$13,965.17",Music Streaming
+,Playstation,United Arab Emirates,44.99,USD,Spider-Man,$44.99,"$70,441.55",Gaming
+,Steam,United Kingdom,13.49,GBP,PUBG,$17.07,"$48,168.87",Gaming
+,Netflix,Brazil,21.90,BRL,Basic,$4.29,"$17,016.32",Video Streaming
+,Steam,United Kingdom,24.99,GBP,GTA V,$31.62,"$48,168.87",Gaming
+,Steam,United Kingdom,49.99,GBP,Doom Eternal,$63.25,"$48,168.87",Gaming
+,Playstation,United Kingdom,15.99,GBP,God Of War,$20.23,"$48,168.87",Gaming
+,Apple music,Macau*,10.99,USD,Family,$10.99,"$110,000.00",Music Streaming
+,Playstation,United Kingdom,15.99,GBP,Bloodborne,$20.23,"$48,168.87",Gaming
+,Xbox,United Kingdom,24.99,GBP,Forza Horizon,$31.62,"$48,168.87",Gaming
+,Xbox,United Kingdom,29.99,GBP,Red Dead,$37.95,"$48,168.87",Gaming
+,Xbox,United Kingdom,38.99,GBP,Sekiro,$49.33,"$48,168.87",Gaming
+,Playstation,United Kingdom,44.99,GBP,Spider-Man,$56.93,"$48,168.87",Gaming
+,Nintendo,United Kingdom,49.99,GBP,Animal crossing,$63.25,"$48,168.87",Gaming
+,Nintendo,United Kingdom,49.99,GBP,Mario,$63.25,"$48,168.87",Gaming
+,Nintendo,United Kingdom,59.99,GBP,Zelda,$75.91,"$48,168.87",Gaming
+,Steam,United States,14.99,USD,PUBG,$14.99,"$67,426.84",Gaming
+,Playstation,United States,19.99,USD,God Of War,$19.99,"$67,426.84",Gaming
+,Playstation,United States,19.99,USD,Bloodborne,$19.99,"$67,426.84",Gaming
+,Xbox,United States,29.99,USD,Red Dead,$29.99,"$67,426.84",Gaming
+,Xbox,United States,29.99,USD,Forza Horizon,$29.99,"$67,426.84",Gaming
+,Xbox,United States,38.99,USD,Sekiro,$38.99,"$67,426.84",Gaming
+,Playstation,United States,39.99,USD,Spider-Man,$39.99,"$67,426.84",Gaming
+,Nintendo,United States,59.99,USD,Animal crossing,$59.99,"$67,426.84",Gaming
+,Nintendo,United States,59.99,USD,Zelda,$59.99,"$67,426.84",Gaming
+,Nintendo,United States,59.99,USD,Mario,$59.99,"$67,426.84",Gaming
+,Steam,United States,29.99,USD,GTA V,$29.99,"$67,426.84",Gaming
+,Steam,United States,59.99,USD,Doom Eternal,$59.99,"$67,426.84",Gaming
+,Steam,Uruguay,"1,709.00",UYU,Doom Eternal,$39.68,"$24,515.57",Gaming
+,Steam,Uruguay,275.00,UYU,PUBG,$6.39,"$24,515.57",Gaming
+,Steam,Uruguay,599.00,UYU,GTA V,$13.91,"$24,515.57",Gaming
+,Steam,Uzbekistan,8.99,USD,PUBG,$8.99,"$9,594.59",Gaming
+,Steam,Uzbekistan,24.99,USD,GTA V,$24.99,"$9,594.59",Gaming
+,Steam,Uzbekistan,29.99,USD,Doom Eternal,$29.99,"$9,594.59",Gaming
+,Steam,Vietnam,"459,000.00",VND,GTA V,$19.82,"$8,677.54",Gaming
+,Steam,Vietnam,"170,000.00",VND,PUBG,$7.34,"$8,677.54",Gaming
